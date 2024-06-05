@@ -1,0 +1,216 @@
+/* ProgressBar.css */
+
+.progress-bars-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    margin-top:15px;
+  }
+  
+  .progress-bar {
+    width: 4px; 
+    height: 100px; 
+    background-color: rgb(236, 236, 236);
+    margin: 4px;
+    transform: rotate(45deg); 
+  }
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 8.5%;
+    color: black;
+}
+.title h1{
+    font-size: 3.875rem;
+    font-weight: 900;
+    border-top:10px solid black;
+    border-right:10px solid black;
+    border-top-right-radius: 40px;
+    padding-right: 51%
+}
+
+.information{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 8.5% 30px 8.5%;
+    background: rgb(243 243 243);
+    border-radius:10px;
+    padding-left:20px;
+    font-size: .9375rem;
+    color: black;
+
+}
+
+.podium,.grid{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 8.5%;
+}
+
+.podium .driver-info{
+  width:31%;
+  display: inline-block;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-top-right-radius: 20px;
+  padding-top: 5px;
+  padding-right:10px;
+  color: black;
+}
+
+.grid .driver-info{
+  width:22.5%;
+  display: inline-block;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-top-right-radius: 20px;
+  padding-top: 5px;
+  padding-right:10px;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .15s;
+  color: black;
+
+}
+
+.podium .driver-info:nth-of-type(even){
+  margin:0% 1.4%;
+}
+.grid .driver-info:nth-of-type(odd){
+  margin:2%  1% 2%;
+}
+.grid .driver-info:nth-of-type(even){
+  margin:2% 0 2% 1%;
+}
+
+
+.place-div{
+  margin-right: 10px;
+  border-bottom: 1px solid rgb(185 185 188);
+  height: 85px;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .15s;
+  box-sizing: border-box;
+}
+
+
+
+.place,
+.points{
+  display:inline-block;
+}
+.place{
+  font-size: 2.625rem;
+  font-weight: 900;
+  margin-top: 10px;
+}
+
+.points{
+  float:right;
+  text-align:center;
+  font-size: 30px;
+  letter-spacing: .0125rem;
+  font-family:fantasy;
+
+}
+
+.points-text{
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+  background-color: black;
+  color: white;
+  border-radius:10px;
+}
+
+.info{
+  margin-top:10px ;
+  margin-right: 10px;
+  border-bottom: 1px solid rgb(185 185 188);
+  height: 65px;
+}
+
+.info div{
+  display: inline-block;
+}
+
+.color{
+  width: 5px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.info .driverName{
+  position: relative;
+  bottom: 10px;
+}
+
+.info .driverName .givenName {
+  margin-bottom: 0;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: .0125rem;
+}
+
+.info .driverName .familyName {
+  font-weight: bolder;
+  line-height: 1.25;
+  letter-spacing: .0125rem;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 16px; 
+}
+
+
+.info .flag{
+  float: right;
+  margin-top: 10px;
+}
+
+.info .flag img{
+  height: 2rem;
+  border-color: rgb(82, 82, 83);
+  border-radius: .3125rem;
+}
+
+.photo{
+  margin-top:10px ;
+  margin-right: 10px;
+}
+
+.photo .constructor p{
+  margin: 0;
+  color: rgb(103 103 109);
+  letter-spacing: .0125rem;
+  font-size: .75rem;
+  line-height:1.25;
+}
+
+.photo .images img{
+  display: inline-block;
+}
+
+.photo .photoNumber{
+  height: 1em;
+  width: 1em;
+  font-size: 4.5rem;
+  margin-top: 200px;
+}
+
+.grid .photoNumber{
+  height: 1em;
+  width: 1em;
+  font-size: 3rem;
+  margin-top: 150px;
+}
+
+.photo .photoForStatistics{
+  padding-right: .9375rem;
+  max-width: 75%;
+  float: right;
+}
+

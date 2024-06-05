@@ -1,0 +1,1212 @@
+[
+    {
+        "id" : "red_bull",
+        "name" : "Red Bull Racing",
+        "color" : "#3671C6",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/red-bull-racing.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/red-bull-racing-logo.png.transform/2col/image.png",
+        "driver" : [
+            "max_verstappen",
+            "perez"
+        ],
+        "fullTeamName" : "Oracle Red Bull Racing",
+        "base" : "Milton Keynes, United Kingdom",
+        "teamChlef" : "Christian Horner",
+        "technicalChlef" : "Pierre Waché",
+        "chassls" : "RB20",
+        "powerUnit" : "Honda RBPT",
+        "firstTeamEntry" : "1997",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053163352_16by9Centre.jpg.img.640.medium.jpg/1713177642718.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045478349_16by9North.jpg.img.640.medium.jpg/1713177643590.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047755836_16by9North.jpg.img.640.medium.jpg/1713177643102.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2029997564_16by9North.jpg.img.640.medium.jpg/1713177643245.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050922991_16by9Centre.jpg.img.640.medium.jpg/1713177642552.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032042247_16by9North.jpg.img.640.medium.jpg/1713177642655.jpg"
+        ],
+        "description" : "Red Bull nie był obcy F1 – jako sponsorom – zanim formalnie dołączył do zespołu w 2004 roku. Niemniej jednak skala ich sukcesu w ciągu następnej dekady była zdumiewająca. Po pierwszym podium w 2006 roku zespół nabrał tempa w 2009 roku, odnosząc sześć zwycięstw i zajmując drugie miejsce w klasyfikacji konstruktorów. Przez następne cztery sezony byli tour de force, zdobywając kolejne tytuły mistrzowskie w latach 2010–2013, a Sebastian Vettel został najmłodszym poczwórnym mistrzem w sporcie. Teraz odzyskują tę chwałę dzięki równie ekscytującemu talentowi – Maxowi Verstappenowi…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "W rękach Maxa Verstappena RB19 okazuje się prawie niezwyciężony, a zespół wygrywa wszystkie wyścigi z wyjątkiem jednego w drodze do drugiego z rzędu dubletu mistrzostw. Rekordowa kampania zakończyła się także pierwszym w historii zespołem dwukrotnym zajęciem miejsca w klasyfikacji kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/red-bull-tbt-2023.jpg"
+            },
+            {
+                "year" : "2022",
+                "description" : "Po pokonaniu wczesnego wyzwania Ferrari, zdominuj wyścig i zdobyj pierwszy podwójny tytuł od 2013 roku, a Max Verstappen zapewnił sobie rekordowe 15 zwycięstw i zachował koronę kierowców. Tylko chmura to kara w wysokości 7 milionów dolarów i ograniczenie przyszłych testów w tunelu aerodynamicznym za przekroczenie limitu budżetowego na 2021 rok.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/Japan/Sunday/1432824611.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Zapewnij sobie pierwsze mistrzostwo kierowców od 2013 roku, wygrywając 11 z 22 wyścigów i popychaj Mercedesa do końca w intensywnej – a czasem zawziętej – walce konstruktorów. Nowy kolega z zespołu, Sergio Perez, zapewnia nieocenione wsparcie Maxowi Verstappenowi w pomyślnej walce o tytuł.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2021/AbuDhabi/Sunday/1358572590.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Samotny drugi w tabeli, konsekwentnie wolny od pomocy, ale rzadko dorównujący tempem mistrzowskiemu Mercedesowi. Max Verstappen jest gwiazdą – z dwoma zwycięstwami i kolejnymi dziewięcioma miejscami na podium – ale Alex Albon zostaje usunięty z kadry na rok 2021 po zaledwie dwóch występach w pierwszej trójce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/AbuDhabi/Sunday/1291046782.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Przejście z Renault na Hondę przebiega niezwykle gładko, a cztery zwycięstwa Maxa Verstappena zapewniają niemal identyczną liczbę punktów jak w 2018 roku. W połowie roku zrezygnowano z Pierre’a Gasly’ego na rzecz debiutanta Alexa Albona, a postępy pod koniec sezonu budzą nadzieje na prawdziwe wyzwanie o tytuł w 2020.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2019/AbuDhabi/Sunday/CM1_4328_2019120131634702.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "Brak wydajności i niezawodności jednostek napędowych Renault oznacza, że ​​tylko czasami autentycznie walczą o zwycięstwa – Ricciardo wygrywa w Chinach i Monako, Verstappen w Austrii i Meksyku. Rezultatem jest bardzo samotne trzecie miejsce w końcowej klasyfikacji – ale nadzieja na poprawę dzięki silnikom Hondy w 2019 roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Homepage%20Carousel/2017/SUT_Japanese_Grand_1542734.jpg.img.640.medium.jpg/1507460647148.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Niezdolny do dotrzymania kroku mistrzom świata Mercedesowi i odradzającemu się Ferrari, spadł na trzecie miejsce w rankingach, czemu nie pomogła słaba niezawodność Renault. Mimo to Daniel Ricciardo i Max Verstappen udowadniają, że są gwiazdami, odnosząc trzy zwycięstwa.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2017/Brazil/Friday/dcc1710no440.jpg.img.640.medium.jpg/1510339251134.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Połączenie doskonałego podwozia RB12 i znacznie ulepszonego zespołu napędowego Renault (obecnie oznaczonego jako TAG Heuer) sprawia, że ​​zespół odbije się i stanie się jedynymi poważnymi rywalami Mercedesa w wyścigu o zwycięstwa – a każdy z nich zdobędzie po jednym dla Daniela Ricciardo i wschodzącej gwiazdy Maxa Verstappena, którzy ogłusza, wygrywając w debiucie po przybyciu z siostrzanego zespołu Toro Rosso do czwartej rundy.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Spain/Sunday/dcd1615my790.jpg.img.640.medium.jpg/1463329342416.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Znakomity zwrot roku 2014 zostaje szybko zapomniany, ponieważ Red Bull jest zmuszony uporać się z kolejnymi problemami z jednostkami napędowymi, które przyczyniają się do pogorszenia porządku konkurencyjnego i wypadania z Renault. Słabsi w porównaniu do rywali i cierpiący na niejednolitą niezawodność Daniel Ricciardo i nowy kolega z zespołu Daniil Kvyat (który w ostatecznym rozrachunku pokonał Australijczyka) zdołali uratować tylko trzy miejsca na podium i czwarte miejsce w rankingach – to najgorszy wynik od 2008 roku. ",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2015/Brazil/Sunday/dcc1515no314.jpg.img.640.medium.jpg/1447620814594.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Po katastrofalnym okresie przygotowawczym z niekonkurencyjną jednostką napędową Renault, odbij się i zajmij drugie miejsce za zwycięskim Mercedesem, jako jedyny inny zespół, który wygrał wyścig. Wschodząca gwiazda Ricciardo odnosi trzy zwycięstwa, dominując nad mistrzem Vettelem, który pod koniec roku odchodzi do Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Red%20Bull/RB%202014.jpg.img.640.medium.jpg/1426101832642.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "RB9 napędzany silnikiem Renault po raz kolejny jest szybki od razu po wyjęciu z pudełka, choć zespół narzeka, że ​​problemy z degradacją opon uniemożliwiają mu wykorzystanie pełnego tempa. Jednak po wymianie opon w środku sezonu zespół zyskuje przewagę i zdobywa czwartą z rzędu koronę konstruktorów w Indiach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Red%20Bull/RB%202013.jpg.img.640.medium.jpg/1426101832250.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Zakaz stosowania dyfuzorów spalinowych pozbawia RB8 dominacji poprzednika, ale w dalszym ciągu przesuwa granice techniczne, wywołując kontrowersje wokół dziur w podłodze, map silnika i nie tylko. Webber wygrywa dwa razy, ale to zasługa Vettela pod koniec sezonu przypieczętowała trzeci tytuł konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Red%20Bull/RB%202012.jpg.img.640.medium.jpg/1426101832451.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Vettel i RB7 byli prawie nietykalni przez cały sezon, zdobywając 11 zwycięstw i łącznie 15 pole position. Webber zdobywa trzy pole position i jedno zwycięstwo w rundzie finałowej. Rywale są coraz bliżej, ale nie wystarczająco blisko, a zespół podsumowuje oba tytuły na trzy rundy przed końcem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202011.jpg.img.640.medium.jpg/1421771436216.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "RB6 to zwykle najszybszy samochód, ale jego niezawodność spada, niesprzyjająca pogoda i dziwne błędy kierowców oznaczają, że zespół awansuje w rankingach dopiero w połowie sezonu. Ciągłe ulepszanie samochodu pozwoli im ostatecznie zdobyć oba tytuły, pomimo odmowy nałożenia poleceń zespołowych na Webbera i Vettela.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202010.jpg.img.640.medium.jpg/1421771501686.jpg"
+            },
+            {
+                "year" : "2009",
+                "description" : "Szybkie RB5 i świetne jazdy Vettela i Webbera popychają Red Bulla do sławy. Vettel zdobywa swoje pierwsze pole position i zwycięstwo w Chinach. Po pięciu kolejnych zwycięstwach zespół dominuje w dalszej części sezonu, zajmując drugie miejsce w obu mistrzostwach jako jedyni prawdziwi rywale Brawna.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202009.jpg.img.640.medium.jpg/1421771478681.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Pomimo niemal identycznego podwozia, napędzany Renault RB4 jest coraz bardziej przyćmiony przez rodzeństwo Toro Rosso napędzane silnikiem Ferrari. Trzeci najlepszy wynik Davida Coultharda w Kanadzie, który w klasyfikacji generalnej spadł z piątego na siódme miejsce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202008.jpg.img.640.medium.jpg/1421771529269.jpg"
+            },
+            {
+                "year" : "2007",
+                "description" : "Ciężki start z RB3 napisanym przez Adriana Neweya, w którym co najmniej jedna wycofała się z wyścigu w każdym z pierwszych siedmiu wyścigów. Aktualizacje śródsezonowe poprawiają tempo i łagodzą problemy z niezawodnością. Rekordowy najlepszy wynik podczas Grand Prix Europy – Mark Webber był trzeci, a David Coulthard piąty.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202007.jpg.img.640.medium.jpg/1421771462245.jpg"
+            },
+            {
+                "year" : "2006",
+                "description" : "Drugi sezon trudniejszy niż pierwszy, pomimo mocy Ferrari. David Coulthard zdobywa pierwsze podium zespołu w Monako, ale w sumie zgromadził 18 punktów mniej niż w roku 2005 i staje w obliczu rosnącego wyzwania ze strony młodszego siostrzanego zespołu, Toro Rosso.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202006.jpg.img.640.medium.jpg/1421771488433.jpg"
+            },
+            {
+                "year" : "2005",
+                "description" : "Pierwsza kampania austriackiego zespołu, po zakupie w 2004 roku składu Jaguara (dawniej Stewart Grand Prix, 1997-1999), okazała się bardzo udana. Zdobądź więcej punktów w pierwszych dwóch wyścigach, niż Jaguar zdobył przez cały poprzedni sezon. Kontynuuj grę i zajmij zdecydowane siódme miejsce w rankingach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Red%20Bull%20Racig%202005.jpg.img.640.medium.jpg/1421771513015.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "ferrari",
+        "name" : "Ferrari",
+        "color" : "#E80020",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/ferrari.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/teams/Ferrari/logo-ferrari-18%20.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/ferrari-logo.png.transform/2col/image.png",
+        "driver" : [
+            "leclerc",
+            "sainz"
+        ],
+        "fullTeamName" : "Scuderia Ferrari HP",
+        "base" : "Maranello, Włochy",
+        "teamChlef" : "Fryderyk Vasseur",
+        "technicalChlef" : "Enrico Cardile / Enrico Gualtieri",
+        "chassls" : "SF-24",
+        "powerUnit" : "Ferrari",
+        "firstTeamEntry" : "1950",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2030176836_16by9Centre.jpg.img.640.medium.jpg/1711036493086.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050987064_16by9Centre.jpg.img.640.medium.jpg/1711036494093.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050526049_16by9Centre.jpg.img.640.medium.jpg/1711036493619.jpg0",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2027373349_16by9Centre.jpg.img.640.medium.jpg/1711036493682.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2100663829_16by9Centre.jpg.img.640.medium.jpg/1711036492915.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053482369_16by9Centre.jpg.img.640.medium.jpg/1711036493670.jpg"
+
+        ],
+        "description" : "Dla wielu wyścigi Ferrari i Formuły 1 stały się nierozłączne. Jako jedyny zespół, który rywalizował w każdym sezonie od rozpoczęcia mistrzostw świata, Prancing Horse wyrósł ze skromnego marzenia założyciela Enzo Ferrari i stał się jedną z najbardziej kultowych i rozpoznawalnych marek na świecie. Sukces przyszedł szybko dzięki takim zawodnikom jak Alberto Ascari i John Surtees i był kontynuowany – w czasach słabszych – z Nikim Laudą w latach 70., a następnie Michaelem Schumacherem w 2000 r., kiedy Ferrari zdobyło bezprecedensowe wówczas pięć podwójnych tytułów z rzędu, zapewniając sobie status najbardziej utytułowany i utytułowany zespół w historii F1...",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Tylko zespół inny niż Red Bull wygrał wyścig – Carlos Sainz w Singapurze – ale skądinąd frustrująca kampania pełna mieszanych losów sprawiła, że ​​zespół o włos przegrywa z Mercedesem i zdobywa drugie miejsce w tabeli konstruktorów, pomimo sześciu pole position i dziewięciu podium.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/ferrari-tbt-2023.png"
+            },
+            {
+                "year" : "2022",
+                "description" : "Wyścig o tytuł mistrza na początku sezonu, w którym Charles Leclerc wygrał dwa z trzech wyścigów otwierających. Jednak połączenie błędów kierowców, problemów z niezawodnością i błędów strategicznych ostatecznie sprowadza ich na odległe drugie miejsce za Red Bullem. Carlos Sainz zdobywa pierwsze zwycięstwo w karierze na torze Silverstone.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/AbuDhabi/Saturday/1442781812.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Nadal nie widać oznak walki o tytuł, ale znaczna poprawa z roku na rok pozwala im wyprzedzić McLarena i zająć w sumie trzecie miejsce, zdobywając ponad dwukrotnie więcej punktów niż w 2020 roku. Nowo przybyły Carlos Sainz pokonuje Charlesa Leclerca, Hiszpan cztery razy stanął na podium, w porównaniu z jednym swoim kolegą z drużyny.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2021/AbuDhabi/Sunday/1358576410.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Osiągnęli najgorszy wynik od czterdziestu lat, nie wygrywając wyścigu, zdobywając zaledwie trzy podia i spadając na szóste miejsce w rankingach. Sebastian Vettel został wcześnie poinformowany, że jego kontrakt nie zostanie przedłużony na rok 2021, a to Charles Leclerc zdobył 98 ze 131 punktów zespołu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/GreatBritain/Sunday/1263423525.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Schemat z ostatnich lat utrzymuje się, ponieważ nie udało im się wygrać wyścigu aż do sierpniowego GP Belgii, mimo że byli wyraźnymi faworytami przed sezonem i często mieli najszybszy samochód. W zaciętej (czasami kosztownej) rywalizacji nowicjusz Charles Leclerc pokonuje weterana zespołu Sebastiana Vettela dwoma zwycięstwami w porównaniu do czterokrotnego mistrza.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2019/AbuDhabi/Sunday/CM1_4408_2019120131114068.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "Przypadek déjà vu, ponieważ Ferrari produkuje coś, co przez większą część roku jest najszybszym pakietem w stawce, a mimo to jest w jakiś sposób wyprzedzone w wyścigach, w strategii i w rozwoju przez aktualnych mistrzów Mercedesa. Sebastian Vettel zapewnił im pięć zwycięstw w sezonie, ale także kilka dość kosztownych błędów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Abu%20Dhabi/Saturday/dcd1824no920.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Innowacyjny samochód ożywia zespół i stawia go na równi z mistrzem świata Mercedesem, przynajmniej przez pierwszą połowę sezonu. Jednak irytujące problemy techniczne (plus dziwny błąd kierowcy) w drugiej rundzie wykluczają ich z rywalizacji o tytuł, ostatecznie zapewniając w sumie pięć zwycięstw w wyścigach wobec 12 zwycięstw rywali.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/POTY_2017/_ONZ7662.jpg.img.640.medium.jpg/1517930605557.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Obietnice poprzedniego sezonu szybko wyparowują, gdy zespół nie jest w stanie żyć z Mercedesem ani Red Bullem. Vettel i Raikkonen stawali na podium odpowiednio siedem i cztery razy, ale zła strategia uniemożliwia im skorzystanie z rzadkich okazji do zwycięstwa, które się pojawiają.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Abu%20Dhabi/Sunday/dcd1628no279.jpg.img.640.medium.jpg/1480330252086.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Fernando Alonso ustępuje miejsca Sebastianowi Vettelowi, a zrestrukturyzowany zespół staje się jedynym poważnym rywalem dla aktualnego mistrza Mercedesa. Dzięki Vettelowi osiągnęli swój cel, jakim są trzy zwycięstwa w Grand Prix, podczas gdy Kimi Raikkonen stara się dorównać wynikom swojego nowego kolegi z zespołu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/F1%20Game/dcd1529ma504.jpg.img.640.medium.jpg/1450454363193.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Spadek na czwarte miejsce w rankingach, brak zwycięstwa po raz pierwszy od 1993 roku, ponieważ F14 T okazuje się niekonkurencyjny nawet w rękach Alonso i Raikkonena. Domenicali odchodzi z funkcji dyrektora zespołu w kwietniu, zastępuje go Mattiaci, a następnego dnia po zakończeniu sezonu – Arrivabene.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202014.jpg.img.640.medium.jpg/1421837641573.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "Mocniejszy start niż w ostatnich latach, a Alonso jest w stanie konkurować z liderem od samego początku, mimo że F138 walczy o tempo kwalifikacyjne. Hiszpan wygrywa w Chinach i Hiszpanii, zanim zmiany opon w środku sezonu obniżą formę zespołu, spadając na trzecie miejsce za RBR i Mercedesem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202013.jpg.img.640.medium.jpg/1421852015884.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Początkowo oporny F2012 nie miał dobrego tempa w pierwszych rundach, ale szybko poprawiał się w rękach Alonso, który prowadzi w mistrzostwach przez większą część roku. Vettel zapewnia Alonso koronę kierowców, ale poprawiona forma Massy pomaga zespołowi zająć drugie miejsce w klasyfikacji konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Ferrari/F%202012.jpg.img.640.medium.jpg/1426100883356.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Powolny start, wyprzedzanie McLarena i Red Bulla i zmagania z nowymi oponami Pirelli. Forma stale się poprawia, a kilka spektakularnych przejazdów Alonso, w tym zwycięstwo na Silverstone, utrzymuje go w walce o tytuł dłużej, niż się spodziewano. Massa rozczarowuje, gdyż ani razu nie stanął na podium.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202011.jpg.img.640.medium.jpg/1421837630386.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "Mocny początek od zwycięstwa w Bahrajnie, ale wkrótce dogonienie Red Bulla i McLarena. Ożywienie w połowie sezonu zapewnia wzrost tytułu, ale zamówienia zespołu Hockenheim przyćmiewają sukces. Strać chwałę konstruktorów, a Alonso został pokonany w klasyfikacji kierowców, mimo że finałowy wyścig rozpoczął jako faworyt.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202010.jpg.img.640.medium.jpg/1421837738562.jpg"
+            },
+            {
+                "year" : "2009",
+                "description" : "Nigdy nie walczył o tytuł ze względu na doskonałe postępy rywali, zagrażający życiu wypadek Massy (i brak tempa zastępców) oraz brak rozwoju, ponieważ zdecydowali się skupić na początku 2010 roku. Większa konkurencyjność w połowie roku, ze zwycięstwem Spa dla Raikkonen, który w 2010 roku przeszedł do Alonso.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202009.jpg.img.640.medium.jpg/1421837701197.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Osiem zwycięstw pomogło im zdobyć 16. tytuł konstruktorów, pokonując McLarena o 21 punktów. Felipe Massa traci do mistrzostwa kierowców jednym punktem do Lewisa Hamiltona, mimo że wygrał więcej wyścigów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202008.jpg.img.640.medium.jpg/1421837724053.jpg"
+            },
+            {
+                "year" : "2007",
+                "description" : "Wygraj zaciętą bitwę z McLarenem na torze i w sądzie. Kimi Raikkonen zdobywa tytuł mistrza świata kierowców po gwałtownym wzroście formy pod koniec sezonu. Zakończ także mistrzostwa konstruktorów po uznaniu McLarena za winnego czerpania korzyści z posiadania poufnych danych Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202007.jpg.img.640.medium.jpg/1421837691346.jpg"
+            },
+            {
+                "year" : "2006",
+                "description" : "Początkowo grasz na drugim miejscu za Renault, ale Michael Schumacher prowadzi w walce z siedmioma zwycięstwami. Zespół wyprzedza Renault na zaledwie trzy rundy przed końcem, ale rzadkie problemy z niezawodnością powodują, że do tytułu tracą zaledwie pięć punktów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202006.jpg.img.640.medium.jpg/1421837712596.jpg"
+            },
+            {
+                "year" : "2005",
+                "description" : "Walka z nowymi przepisami, zwłaszcza tymi wymagającymi, aby opony wytrzymały kwalifikacje i wyścig. Siedem podium, w tym jedno zwycięstwo w Indianapolis, gdzie wycofanie Michelin pozostawia w stawce sześć samochodów. Zająć trzecie miejsce w klasyfikacji konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202005.jpg.img.640.medium.jpg/1421837670348.jpg"
+            },
+            {
+                "year" : "2004",
+                "description" : "Przegraj zaledwie trzy razy w 18 wyścigach, aby zdobyć koronę konstruktorów szósty rok z rzędu. Niewiarygodne 13 zwycięstw Michaela Schumachera pozwala mu zdobyć siódme miejsce w mistrzostwach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202004.jpg.img.640.medium.jpg/1421837660624.jpg"
+            },
+            {
+                "year" : "2003",
+                "description" : "Znacznie trudniejszy sezon, ale ostatecznie nie do pokonania. Rekordowy piąty z rzędu tytuł konstruktorów, a Michael Schumacher jest pierwszym człowiekiem, który zdobył sześć koron kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202003.jpg.img.640.medium.jpg/1421837445406.jpg"
+            },
+            {
+                "year" : "2000 - 2002",
+                "description" : "Ferrari wchodzi w okres całkowitej dominacji, zdobywając tytuły zarówno kierowców, jak i konstruktorów trzy lata z rzędu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%202000%202002.jpg.img.640.medium.jpg/1421837536698.jpg"
+            },
+            {
+                "year" : "1999",
+                "description" : "Michael Schumacher opuszcza sześć rund po złamaniu nogi na Silverstone. Zespół zdobył mistrzostwo konstruktorów w ostatnim wyścigu, ale Eddiemu Irvine'owi zabrakło do tytułu kierowcy.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201999.jpg.img.640.medium.jpg/1421837491111.jpg"
+            },
+            {
+                "year" : "1983",
+                "description" : "Ferrari zdobywa ósme mistrzostwo konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201983.jpg.img.640.medium.jpg/1421837547313.jpg"
+            },
+            {
+                "year" : "1979",
+                "description" : "Jody Scheckter zdobywa mistrzostwo kierowców – będzie to ostatni tytuł mistrzowski zespołu od 21 lat.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201979.jpg.img.640.medium.jpg/1421837522905.jpg"
+            },
+            {
+                "year" : "1975 - 1977",
+                "description" : "Niki Lauda zdobywa mistrzostwo kierowców w 1975 r., wraca po strasznym wypadku w 1976 r., a w 1977 r. zdobywa dla zespołu drugi tytuł mistrzowski.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201975%201977.jpg.img.640.medium.jpg/1421837513440.jpg"
+            },
+            {
+                "year" : "1964",
+                "description" : "Koronę kierowców zdobywa John Surtees, były mistrz świata w motocyklach. Pozostaje jedynym człowiekiem, który dokonał tego wyczynu na dwóch i czterech kołach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201964.jpg.img.640.medium.jpg/1421837608634.jpg"
+            },
+            {
+                "year" : "1961",
+                "description" : "Phil Hill prowadzi Ferrari do dwukrotności mistrzostwa kierowców i konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Ferrari%201961.jpg.img.640.medium.jpg/1421837502394.jpg"
+            },
+            {
+                "year" : "1958",
+                "description" : "Mike Hawthorn zostaje trzecim kierowcą Ferrari, który zdobył mistrzostwo kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/M/MIKHAW01_Mike_Hawthorn/Hawthorn_12.jpg.img.640.medium.jpg/1421667204782.jpg"
+            },
+            {
+                "year" : "1956",
+                "description" : "Juan Manuel Fangio zdobywa w Scuderii swoje czwarte mistrzostwo kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/J/JUAFAN01_Juan%20Manuel_Fangio/fangio8.jpg.img.640.medium.jpg/1421667044120.jpg"
+            },
+            {
+                "year" : "1952",
+                "description" : "Alberto Ascari wygrywa pierwszy z dwóch tytułów mistrzowskich kierowców w Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/A/ALBASC01_Alberto_Ascari/Ascari_021.jpg.img.640.medium.jpg/1421666857013.jpg"
+            },
+            {
+                "year" : "1951",
+                "description" : "Jose Froilan Gonzalez notuje pierwsze zwycięstwo Ferrari w Grand Prix Wielkiej Brytanii.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Farina3.jpg.img.640.medium.jpg/1421331063690.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "mclaren",
+        "name" : "McLaren",
+        "color" : "#FF8000",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/mclaren.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mclaren.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/mclaren-logo.png.transform/2col/image.png",
+        "driver" : [
+            "norris",
+            "piastri"
+        ],
+        "fullTeamName" : "McLaren Formula 1 Team",
+        "base" : "Woking, United Kingdom",
+        "teamChlef" : "Andrea Stella",
+        "technicalChlef" : "Peter Prodromou / Neil Houldey",
+        "chassls" : "MCL38",
+        "powerUnit" : "Mercedes",
+        "firstTeamEntry" : "1966",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053514280_16by9North.jpg.img.640.medium.jpg/1710865275927.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045580404_16by9South.jpg.img.640.medium.jpg/1710865276171.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068364720-16by9Centre.jpg.img.640.medium.jpg/1710865275183.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032675059_16by9Centre.jpg.img.640.medium.jpg/1710865275797.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050993420_16by9South.jpg.img.640.medium.jpg/1710865275965.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2030040878_16by9Centre.jpg.img.640.medium.jpg/1710865275992.jpg"
+        ],
+        "description" : "Odkąd McLaren rozpoczął przygodę ze sportem w 1966 roku pod przewodnictwem i niestrudzonym wysiłkiem tytułowego założyciela Bruce'a, sukcesy McLarena zapierają dech w piersiach. Pięć błyskotliwych dekad przyniosło niezliczone zwycięstwa, pole position i podia, nie wspominając o ośmiu mistrzostwach konstruktorów. Co więcej, w zespole zasłynęli niektórzy z najwybitniejszych kierowców tego sportu, w tym Emerson Fittipaldi, Ayrton Senna, Mika Hakkinen i Lewis Hamilton...",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Po powolnym początku staną się regularnymi pretendentami do podium, a Lando Norris i imponujący debiutant z zespołu, Oscar Piastri, zdobywają w sumie dziewięć podium. Rezultatem jest awans na czwarte miejsce w klasyfikacji konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/mclaren-tbt-2023.jpg"
+            },
+            {
+                "year" : "2022",
+                "description" : "Spadek na piąte miejsce w tabeli za Alpine, a Lando Norris zdobył swoje jedyne podium w Imola – zdobywając 122 ze 159 punktów. Daniel Ricciardo nie radzi sobie z MCL36 napędzanym silnikiem Mercedesa i opuszcza zespół pod koniec sezonu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/EmiliaRomagna/Sunday/1393528086.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Odnotowali swoje pierwsze zwycięstwo od 2012 roku, a Daniel Ricciardo i Lando Norris osiągnęli na Monzy jedyny w tym roku wynik „dwa dwa” spośród wszystkich drużyn. Niemniej jednak spadł na czwarte miejsce w klasyfikacji generalnej po gorszym wyniku w trwającej cały sezon bitwie z Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2021/Italy/Sunday/1340264839.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Szybko i konsekwentnie pokonuj swoich rywali z wyższego środka pola na 3. miejsce w rankingach, podczas gdy Ferrari słabło, a Carlos Sainz i Lando Norris stanęli na podium. Podpisanie umowy na wykorzystanie mocy Mercedesa od 2021 r.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/Italy/Sunday/_RCA6573_2020090612438015.JPG"
+            },
+            {
+                "year" : "2019",
+                "description" : "Gdy współpraca z Renault zaczyna się umacniać, a debiutant Lando Norris mocno naciska na doświadczonego Carlosa Sainza, odzyskają pozycję „najlepszego z pozostałych” za trzema dużymi zespołami. Trzecie miejsce w Brazylii to ich pierwsze podium od pięciu lat.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2019/Brazil/Sunday/_54I3783-2_20191117100719592.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "Przejście na moc Renault przynosi natychmiastową poprawę i 40 punktów z pierwszych pięciu wyścigów. Jednak tę formę trudno utrzymać i pomimo kilku zaciętych jazdy Fernando Alonso, pozostałych 16 Grand Prix przyniosło jeszcze tylko 10, co pozostawiło zespół na szóstym miejscu w końcowej klasyfikacji.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Italy/Friday/dcd1831au305.jpg.img.640.medium.jpg/1623943216581.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Trzeci rozczarowujący sezon z silnikami Hondy okazuje się ostatnią kroplą w odnowionej współpracy, co skłoniło Alonso do przejścia na silnik Renault w 2018 roku. Fernando Alonso i Stoffel Vandoorne zdobyli zaledwie 30 punktów pomimo pozornie doskonałego podwozia – takiego, które pomaga Alonso najszybsze okrążenie wyścigu na Węgrzech.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2017/Hungary/Saturday/dcc1729jy295.jpg.img.640.medium.jpg/1623943359843.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Drugi sezon współpracy z Hondą przyniósł znaczną poprawę, choć zespołowi wciąż daleko do podium. Awansują na szóste miejsce w tabeli, a większość z 76 punktów zdobytych przez Fernando Alonso zapewnia im najlepsze wyniki, zajmując piąte miejsce w Monako i Austin. Alonso opuszcza jeden wyścig z powodu kontuzji, dzięki czemu protegowany zespołu Stoffel Vandoorne, który zastępuje Jensona Buttona na rok 2017, zadebiutuje w pierwszej dziesiątce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Brazil/Friday/dcd1611no811.jpg.img.640.medium.jpg/1623944190762.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Odrodzone połączenie McLarena i Hondy uznaje obecną generację jednostek napędowych za trudny orzech do zgryzienia, co skutkuje fatalnym sezonem pomimo dwóch byłych mistrzów – Jensona Buttona i Fernando Alonso – za kierownicą. Zdobądź zaledwie 27 punktów i spaść na dziewiąte miejsce w tabeli.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2015/Abu%20Dhabi/Sunday/dcd1529no1076.jpg.img.640.medium.jpg/1448820060261.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Ostatni sezon napędzany Mercedesem (przed zmianą Hondy) okazał się trudny pomimo podwójnego podium w pierwszej rundzie w Australii. Ani Button, ani debiutant Magnussen nie sprawili ponownie kłopotów pierwszej trójce, a w rundzie finałowej zespół zapewnił sobie w sumie jedynie piąte miejsce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_14.jpg.img.640.medium.jpg/1623944509650.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "Po przełamaniu trendu i zaprojektowaniu zupełnie nowego samochodu, we wczesnych rundach walcz z MP4-28 garścią dla Buttona i nowego kolegi z zespołu Pereza. Dobra passa 64 wyścigów, sięgająca 2010 roku, kończy się w Montrealu. Zakończ sezon na marnym piątym miejscu, bez ani jednego miejsca na podium.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/McLaren/Mc%202013.jpg.img.640.medium.jpg/1623944616689.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Forma rollercoastera w pierwszej połowie sezonu pomimo wygranej w pierwszej rundzie w Australii, a Buttonowi szczególnie zależało na wydobyciu z opon Pirelli tego, co najlepsze. Aktualizacje w środku sezonu przywracają tempo MP4-27, ale pomimo zwycięstw Hamiltona i Buttona problemy z niezawodnością przekreślają ofertę o tytuł.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_12.jpg.img.640.medium.jpg/1623944728293.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Nie udało się dorównać Red Bullowi pod względem prędkości w kwalifikacjach w żadnej rundzie z wyjątkiem jednej (Korea), ale udowodnili, że są ich najbliższymi rywalami i mają przewagę w tempie wyścigowym. Hamilton i Button zdobywają po trzy zwycięstwa, a zespół zajmuje wyraźne drugie miejsce w końcowej klasyfikacji.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_11.jpg.img.640.medium.jpg/1623944948064.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "Samochód nie tak szybki jak Red Bull, ale bardziej niezawodny i lśniący w wilgotnych warunkach. Wydajność wspomagana jest przez innowacyjny (i często kopiowany) kanał F, który umożliwia kierowcom przeciągnięcie tylnego skrzydła przy dużej prędkości. Prowadzi w pierwszej połowie sezonu, ale ostatecznie zajmuje drugie miejsce po pięciu zwycięstwach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Jenson%20Button%202010.jpg.img.640.medium.jpg/1623945087752.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Trudny początek sezonu sprawia, że ​​Hamilton i Kovalainen mają trudności ze zdobyciem gola, nie mówiąc już o zwycięstwie. Ciężka praca stopniowo zmienia MP4-24 w zwycięzcę wyścigu, a Hamilton zwycięża na Węgrzech i w Singapurze, pomagając zespołowi na zasłużone trzecie miejsce w klasyfikacji, jeden punkt nad Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_09.jpg.img.640.medium.jpg/1421841056396.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Lewis Hamilton zapewnia zespołowi pierwsze mistrzostwo kierowców od 1999 roku, ale współpraca z Heikkim Kovalainenem ostatecznie nie jest na tyle silna, aby odebrać Ferrari koronę konstruktorów i zespół zajmuje drugie miejsce, tracąc 21 punktów do włoskiego zespołu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/Hamilton191.jpg.img.640.medium.jpg/1623945238124.jpg"
+            },
+            {
+                "year" : "2007",
+                "description" : "Wygraj osiem Grand Prix, ale pozbawiony punktów konstruktorów i ukarany grzywną w wysokości 100 milionów dolarów za czerpanie korzyści z posiadania poufnych danych Ferrari. Intensywna rywalizacja sprawiła, że ​​koledzy z zespołu, Hamilton i Alonso, osiągnęli wyrównaną liczbę punktów, a o jeden zabrakło im tytułu mistrzowskiego.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Alonso_07.jpg.img.640.medium.jpg/1623945354625.jpg"
+            },
+            {
+                "year" : "2006",
+                "description" : "Odległe trzecie miejsce w mistrzostwach, pomimo mocnego tempa wyścigowego w drugiej połowie sezonu. Zakończ kampanię bez zwycięstwa po raz pierwszy od dekady. Dominujący kierowca Kimi Raikkonen, Juan Pablo Montoya odchodzący w połowie sezonu do NASCAR.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/d06ger8292.jpg.img.640.medium.jpg/1623945438459.jpg"
+            },
+            {
+                "year" : "2005",
+                "description" : "MP4-20 okazuje się najszybszym samochodem w stawce, ale słaba niezawodność oznacza, że ​​niewiele brakuje mu do tytułu konstruktorów pomimo 10 zwycięstw – o dwa więcej niż mistrzowskie Renault. Kimi Raikkonen wicemistrzem klasyfikacji kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_05.jpg.img.640.medium.jpg/1623945525061.jpg"
+            },
+            {
+                "year" : "2004",
+                "description" : "Najgorszy początek sezonu od lat, mając zaledwie pięć punktów w pierwszych siedmiu wyścigach. Etap mocnej poprawy, w tym zwycięstwa Kimi Raikkonena w Belgii, zakończy rok na piątym miejscu w tabeli.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_04.jpg.img.640.medium.jpg/1623945652739.jpg"
+            },
+            {
+                "year" : "2003",
+                "description" : "Trzeci w klasyfikacji konstruktorów, tuż za Williamsem. Kimi Raikkonen wyłania się jako główny pretendent do tytułu mistrza kierowców, przegrywając w ostatnim wyścigu w Japonii z Michaelem Schumacherem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/d03aus13572.jpg.img.640.medium.jpg/1623945945238.jpg"
+            },
+            {
+                "year" : "2002",
+                "description" : "Zepchnięty na trzecie miejsce w klasyfikacji konstruktorów, za Ferrari i Williamsem. David Coulthard zajmuje piąte miejsce w klasyfikacji kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_02.jpg.img.640.medium.jpg/1623946028110.jpg"
+            },
+            {
+                "year" : "2000 - 2001",
+                "description" : "Dwa lata z rzędu zajmij drugie miejsce w mistrzostwach kierowców i konstruktorów, razem z Miką Hakkinenem i Davidem Coulthardem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_01.jpg.img.640.medium.jpg/1623946148702.jpg"
+            },
+            {
+                "year" : "1998 - 1999",
+                "description" : "Dominuj po pomyślnym dostosowaniu się do zmian zasad. Mika Hakkinen zdobywa mistrzostwo kierowców w obu sezonach, a McLaren zdobywa tytuł mistrza konstruktorów w 1998 roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_98.jpg.img.640.medium.jpg/1623946247895.jpg"
+            },
+            {
+                "year" : "1988 - 1991",
+                "description" : "Okres całkowitej dominacji McLarena. W 1988 r. Ayrton Senna odbiera tytuł swojemu koledze z drużyny Alainowi Prostowi, a w 1989 r. honory zostały odwrócone. W 1990 r. Senna odzyskuje tytuł i utrzymuje go w 1991 r.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_89.jpg.img.640.medium.jpg/1623946353117.jpg"
+            },
+            {
+                "year" : "1985 - 1986",
+                "description" : "Alain Prost zdobywa dla zespołu kolejne mistrzostwa kierowców.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/drivers/A/ALAPRO01_Alain_Prost/Prost6.jpg.img.640.medium.jpg/1623946429084.jpg"
+            },
+            {
+                "year" : "1984",
+                "description" : "Współpracując z Alainem Prostem, Niki Lauda wyprzedza swojego kolegę z zespołu o pół punktu w mistrzostwach kierowców, wygrywając 12 z 16 wyścigów sezonu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_84.jpg.img.640.medium.jpg/1623946513709.jpg"
+            },
+            {
+                "year" : "1976",
+                "description" : "James Hunt zdobywa dla zespołu mistrzostwo kierowców, pokonując o jeden punkt Nikiego Laudę z Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_76.jpg.img.640.medium.jpg/1623946661166.jpg"
+            },
+            {
+                "year" : "1970",
+                "description" : "Bruce McLaren ginie na torze Goodwood podczas testowania samochodu sportowego Can-Am.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_70.jpg.img.640.medium.jpg/1623946779578.jpg"
+            },
+            {
+                "year" : "1968",
+                "description" : "Bruce McLaren wygrywa w Belgii, zapewniając swojemu zespołowi pierwsze zwycięstwo w Grand Prix, które zajmuje drugie miejsce w mistrzostwach konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_68.jpg.img.640.medium.jpg/1623946922510.jpg"
+            },
+            {
+                "year" : "1963",
+                "description" : "Założenie firmy Bruce McLaren Motor Racing Ltd.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/McLaren_63.jpg.img.640.medium.jpg/1623947069305.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "mercedes",
+        "name" : "Mercedes",
+        "color" : "#27F4D2",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/mercedes.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mercedes.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/mercedes-logo.png.transform/2col/image.png",
+        "driver" : [
+            "hamilton",
+            "russell"
+        ],
+        "fullTeamName" : "Mercedes-AMG PETRONAS F1 Team",
+        "base" : "Brackley, United Kingdom",
+        "teamChlef" : "Toto Wolff",
+        "technicalChlef" : "James Allison",
+        "chassls" : "W15",
+        "powerUnit" : "Mercedes",
+        "firstTeamEntry" : "1970",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2055023690_16by9South.jpg.img.640.medium.jpg/1712930072332.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2051007031_16by9South.jpg.img.640.medium.jpg/1712930072451.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2100717541_16by9Centre.jpg.img.640.medium.jpg/1712930072540.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2105624600_16by9North.jpg.img.640.medium.jpg/1712930073018.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048271175_16by9Centre.jpg.img.640.medium.jpg/1712930072486.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2030207177_16by9Centre.jpg.img.640.medium.jpg/1712930072508.jpg"
+        ],
+        "description" : "Nowoczesne odrodzenie Mercedesa w F1 rozpoczęło się od utworzenia składu fabrycznego na rok 2010 – platformy do błyskawicznego wzniesienia się w górę kolejności Grand Prix. Zespół wywołał ogromne emocje od samego początku sensacyjnym powrotem Michaela Schumachera, ale wkrótce na pierwszych stronach gazet pojawiły się pierwsze informacje na temat tego, co się wydarzyło: trzy miejsca na podium w debiutanckim sezonie, a wszystko za sprawą Nico Rosberga, który następnie w 2012 roku wywalczył przełomowe pole position i podwójne zwycięstwo w Chinach. w następnym sezonie został połączony z Lewisem Hamiltonem; duet ten stoczył kilka epickich bitew o tytuł, podczas gdy Srebrne Strzały przetoczyły się przed nimi, stając się jedną z najbardziej dominujących sił współczesnej ery F1 – dopóki nie pojawił się Red Bull i nie ukradł tej korony. Niemniej jednak, ponieważ Hamiltonowi współpracuje teraz sprawdzony zwycięzca wyścigu George Russell, Mercedes pozostaje w dużej mierze jednym z zespołów, które mogą pokonać…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Nie udało się wygrać Grand Prix po raz pierwszy od 2011 roku, ponieważ W14 okazuje się niewiele lepszy od swojego poprzednika. Niemniej jednak nieustanny rozwój ostatecznie pozwolił zespołowi zająć drugie miejsce w tabeli, wyprzedzając Ferrari w ostatniej rundzie sezonu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/mercedes-tbt-2023.jpg"
+            },
+            {
+                "year" : "2022",
+                "description" : "Radykalne zmiany przepisów zachwiały porządkiem, a W13 Mercedesa minął metę, pozostawiając ich „najlepszymi z pozostałych” za Red Bullem i Ferrari. Nowicjusz George Russell odnosi jedyne zwycięstwo i przewyższa Lewisa Hamiltona, który po raz pierwszy w swojej karierze w F1 nie wygrał.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/Brazil/Sunday/1441257472.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Staw czoła największemu jak dotąd wyzwaniu związanemu z dominacją turbo-hybrydy. Lewis Hamilton traci koronę kierowców na rzecz Maxa Verstappena z Red Bulla pomimo wygrania ośmiu wyścigów, a zespołowi niewiele brakuje do tytułu konstruktorów, który utrzymuje go ósmy sezon z rzędu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2021/Italy/Sunday/1339846545.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Właśnie wtedy, gdy myślisz, że nie może być lepiej, Mercedes – a w szczególności Lewis Hamilton – wrzuca kolejny bieg. Aktualny mistrz wygrywa 11 wyścigów i bije mnóstwo rekordów w drodze do siódmego tytułu kierowcy równego Schumacherowi, mimo że opuścił rundę z powodu Covid-19. Dodaj dwa zwycięstwa Valtteriego Bottasa i będzie to kolejna dominująca podwójna korona dla Srebrnych Strzał.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/Bahrain/Sunday/1288464839.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Rozpocznij sezon bezprecedensowymi pięcioma podwójnymi zwycięstwami, a następnie kontynuuj 10 zwycięstwami, zapewniając sobie w ten sposób szósty dublet tytułu po odbiciu. Wszechstronna praca zespołowa, a nie ciągłe tempo, jest często kluczem do sukcesu. Valtteri Bottas poprawia swoją formę, co oznacza, że ​​Lewis Hamilton musi ciężko pracować, aby zapewnić sobie szóstą koronę kierowców, co zbliża Brytyjczyka do pobicia rekordu wszechczasów Michaela Schumachera.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Getty/Singapore_2019/Sunday/GettyImages-1176336246.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "To sezon głównie poświęcony Lewisowi Hamiltonowi, którego 11 zwycięstw pomogło drużynie zapewnić zespołowi piąty z rzędu dublet w mistrzostwach – mimo że rywale, Ferrari, często mają szybszy samochód – kontynuując dominację w erze turbohybrydowej. Kolega z zespołu Valtteri Bottas kończy rok bez zwycięstwa po tym, jak został zmuszony do gry jako tylny strzelec przed szalonym Hamiltonem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Abu%20Dhabi/Sunday/dcd1825no1210.jpg.img.640.medium.jpg/1543166566487.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Przyjmij surowe wyzwanie o tytuł ze strony Ferrari, ponieważ ich samochód W08 udowadnia – jak sami przyznają – że jest czymś w rodzaju „divy”. Po odejściu starego przeciwnika Rosberga Hamilton dobrze wczuł się w rolę de facto numeru jeden zespołu, prowadząc go do czwartego z rzędu dubletu w mistrzostwach, a nowy partner Valtteri Bottas zdobywa swoje pierwsze (trzy) zwycięstwa w wyścigach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2017/USA/Sunday/dcc1722oc562.jpg.img.640.medium.jpg/1517931757726.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Przewaga drużyn osiąga nowy poziom, gdy wygrywają 19 z 21 rund w drodze do trzeciego dubletu z rzędu. Tym razem jednak to Rosberg podnosi koronę kierowców po gigantycznych zmaganiach trwających cały sezon, a wkrótce po tym szokuje zespół – i świat F1 – ogłaszając natychmiastowe wycofanie się z wyścigów Formuły 1.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Abu%20Dhabi/Sunday/dcc1628no1461.jpg.img.640.medium.jpg/1480335499719.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Hamilton prowadzi Mercedesa do drugiego z rzędu podwójnego tytułu w mistrzostwach, a zespół po raz kolejny zwycięża w 16 z 19 rund w tym roku, tym razem bijąc swój własny rekord z 2014 r., osiągając oszałamiające 12 podwójnych zwycięstw.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/races/USA/dms1402no441.jpg.img.640.medium.jpg/1445503345199.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Zdominuj pierwszy sezon ery silników hybrydowych, wygrywając rekordowe 16 z 19 wyścigów i 11 razy kończąc wyścig. Zdobądź dziewiczą koronę konstruktorów na trzy rundy przed końcem i zdobądź pierwszy tytuł kierowcy od czasów Juana Manuela Fangio w latach pięćdziesiątych dzięki uprzejmości Lewisa Hamiltona.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Mercedes%202014%20(2).jpg.img.640.medium.jpg/1421841398211.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "F1 W04 z natury szybki, ale początkowo trudny dla opon. Czterech Polaków z rzędu ostatecznie zwyciężyło w pierwszym sezonie z Rosbergiem w Monako, a za nimi plasowali się pozostali w Wielkiej Brytanii (Rosberg) i na Węgrzech (Hamilton). Nie udało mi się utrzymać Red Bulla w późniejszych wyścigach i zająć drugie miejsce w klasyfikacji generalnej.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/mercedes/Merc%202013.jpg.img.640.medium.jpg/1426102144788.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Rosberg zdobywa przełomowe zwycięstwo zespołu – pierwsze zwycięstwo Mercedesa w składzie fabrycznym od 1955 roku – w trzeciej rundzie w Chinach, za kierownicą innowacyjnego F1 W03 wyposażonego w unikalny system „podwójnych skrzydeł DRS”. Jednak tempo spada przez cały sezon, a zespół walczy o dalsze podia.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Mercedes%202012.jpg.img.640.medium.jpg/1421769477660.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Schumacher i Rosberg sfrustrowani, gdy zespół nie był w stanie poprawić formy jako czwarta potęga F1, daleko od liderów Red Bulla, McLarena i Ferrari. Najważniejsze wydarzenia to czwarte miejsce Schumachera w Kanadzie i trzecie miejsce Rosberga w Turcji.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Mercedes%202011.jpg.img.640.medium.jpg/1421769491760.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "Pierwszy fabryczny skład Mercedesa od 1955 roku powstał po zakupie zespołu Brawn GP (dawniej Honda (2006-2008), BAR (1999-2005) i Tyrrell (1970-1998)), ale nie udało mu się utrzymać czołowej formy zespołu z 2009 roku. Michael Schumacher powraca długo oczekiwany do F1, ale zostaje pokonany przez młodszego kolegę z zespołu Nico Rosberga. W sumie czwarty.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Mercedes%202010.jpg.img.640.medium.jpg/1421769556048.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "aston_martin",
+        "name" : "Aston Martin",
+        "color" : "#229971",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/aston-martin.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/aston%20martin%202024.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/aston-martin-logo.png.transform/2col/image.png",
+        "driver" : [
+            "alonso",
+            "stroll"
+        ],
+        "fullTeamName" : "Aston Martin Aramco F1 Team",
+        "base" : "Silverstone, United Kingdom",
+        "teamChlef" : "Mike Krack",
+        "technicalChlef" : "Dan Fallows",
+        "chassls" : "AMR24",
+        "powerUnit" : "Mercedes",
+        "firstTeamEntry" : "2018",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053204844_16by9Centre.jpg.img.640.medium.jpg/1711035193963.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032079239_16by9North.jpg.img.640.medium.jpg/1711035193024.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045385016_16by9Centre.jpg.img.640.medium.jpg/1711035193079.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032281505_16by9Centre.jpg.img.640.medium.jpg/1711035193196.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2063248829_16by9Centre.jpg.img.640.medium.jpg/1711035192516.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2029639192_16by9Centre.jpg.img.640.medium.jpg/1711035193102.jpg"
+        ],
+        "description" : "Pierwotna przygoda Astona Martina w Formule 1 – ponad pół wieku temu – trwała zaledwie pięć wyścigów. Tym razem jednak jest poważnie. Zespołowi F1 nie są obce sukcesy, ponieważ wygrał w swoim oryginalnym przebraniu Jordana, a ostatnio jako Racing Point w 2020 r. Znany ze swojej zdolności do uderzania powyżej swojej wagi, a teraz z dwukrotnym mistrzem na czele swojego składu kierowców Aston Martin to zespół, który warto obserwować…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Niezwykle imponujący początek sezonu: Fernando Alonso sześciokrotnie stawał na podium w pierwszych ośmiu wyścigach. Cofajcie się w miarę postępu kampanii, kończąc piąty rok w klasyfikacji generalnej konstruktorów."
+            },
+            {
+                "year" : "2022",
+                "description" : "W spokojnym sezonie zespół utrzymuje się na siódmym miejscu w rankingach, a P6 jest ich najlepszym finiszem w wyścigu – dla Sebastiana Vettela w Azerbejdżanie i Japonii oraz Lance'a Strolla w Singapurze. Vettel ogłasza odejście z F1, a inny mistrz Fernando Alonso szybko podpisał kontrakt na jego następcę w 2023 roku."
+            },
+            {
+                "year" : "2021",
+                "description" : "Nie dotrzymają kroku rywalom ze środka pola i spadną na 7. miejsce w tabeli, zdobywając mniej niż połowę punktów zdobytych w 2020 roku. Najważniejsze wydarzenia to podium Sebastiana Vettela w Azerbejdżanie oraz piąte miejsca w Spa i Monako. Najgorszym punktem jest jego dyskwalifikacja z P2 na Węgrzech za naruszenie przepisów dotyczących paliwa."
+            },
+            {
+                "year" : "2020",
+                "description" : "Gdy zespół stanął na nogi, nazwa Racing Point odniosła pierwsze zwycięstwo w wyścigu na drodze do czwartego miejsca w klasyfikacji dzięki uprzejmości Sergio Pereza, którego na rok 2021 zastępuje Sebastian Vettel i transformacji składu do Astona Martina."
+            },
+            {
+                "year" : "2019",
+                "description" : "Kac po zawirowaniach w 2018 roku daje swoje żniwo, a powrót zespołu do zdrowia przebiega powoli pomimo kilku odważnych jazd ze strony zawsze niezawodnego Sergio Pereza, który zdobył 52 z 73 punktów, zapewniając sobie utrzymanie siódmego miejsca w tabeli konstruktorów."
+            },
+            {
+                "year" : "2018",
+                "description" : "W miarę jak trwa zacięta rywalizacja wewnątrz zespołu między niezłomnym Sergio Perezem a protegowanym Mercedesa Estebanem Oconem, w obliczu niepewności finansowej zespół spada na tyły pomocnika, a jego kulminacją jest nowy właściciel, nowa nazwa Racing Point – i nowy wpis do mistrzostw – od sierpniowego GP Belgii dalej. Dobrze zregeneruj się i zajmij w sumie siódme miejsce, pomimo utraty 59 punktów naliczonych przed Spa."
+            }
+        ]
+    },
+    {
+        "id" : "rb",
+        "name" : "RB",
+        "color" : "#6692FF",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/rb.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/rb.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/rb-logo.png.transform/2col/image.png",
+        "driver" : [
+            "tsunoda",
+            "ricciardo"
+        ],
+        "fullTeamName" : "Visa Cash App RB Formula One Team",
+        "base" : "Faenza, Italy",
+        "teamChlef" : "Laurent Mekies",
+        "technicalChlef" : "Jody Egginton",
+        "chassls" : "VCARB 01",
+        "powerUnit" : "Honda RBPT",
+        "firstTeamEntry" : "1985",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048386199-16by9Centre.jpg.img.640.medium.jpg/1709548473315.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2051044320_16by9Centre.jpg.img.640.medium.jpg/1709548473845.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048375559_16by9Centre.jpg.img.640.medium.jpg/1709548473623.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050945287_16by9North.jpg.img.640.medium.jpg/1709548473988.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047994666_16by9North.jpg.img.640.medium.jpg/1709548473362.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053498125_16by9North.jpg.img.640.medium.jpg/1709548473278.jpg"
+        ],
+        "description" : "",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Pełna wydarzeń finałowa kampania pod pseudonimem AlphaTauri kończy się ósmym miejscem w rankingach. Nowicjusz Nyck de Vries odpadł w połowie sezonu na rzecz doświadczonego Daniela Ricciardo, który następnie opuścił pięć Grand Prix ze złamaną ręką w wyniku wypadku na treningach."
+            },
+            {
+                "year" : "2022",
+                "description" : "Tempo wyhamowuje i traci pozycję na rzecz takich marek jak Alfa Romeo i Haas, spadając na 9. miejsce w końcowej klasyfikacji z zaledwie 35 punktami do 142 punktów w 2021 r. Pierre Gasly osiąga najlepszy wynik sezonu, zajmując piąte miejsce w Baku, ale opuszcza skład o godz. koniec roku"
+            },
+            {
+                "year" : "2021",
+                "description" : "Awansuj o kolejne miejsce na szóste miejsce w rankingach, ponieważ wciąż udoskonalający się Pierre Gasly zdobywa podium w Azerbejdżanie i zdobywa punkty w prawie każdym wyścigu, który kończy. Nowicjusz z drużyny, Yuki Tsunoda, potrzebuje czasu, aby stanąć na nogi, ale w finale sezonu zapewnia sobie doskonałe czwarte miejsce."
+            },
+            {
+                "year" : "2020",
+                "description" : "Nowa nazwa nadaje nowy impet, a AlphaTauri wyłania się jako prawdziwa siła pomocy, zdobywając ponad sto punktów, z czego 27 na własnym boisku na Monzy, gdzie Pierre Gasly zapewnia sobie i drużynie pierwsze zwycięstwo."
+            },
+            {
+                "year" : "2019",
+                "description" : "W ostatnim sezonie pod nazwą Toro Rosso mogą cieszyć się najbardziej udaną jak dotąd kampanią, zdobywając 85 punktów i zapewniając szóste miejsce w tabeli. W połowie sezonu wymiana kierowców oznacza powrót Pierre'a Gasly'ego z Red Bull Racing, a Francuz reaguje na swoją „degradację” spektakularnym dziewiczym podium w Brazylii." 
+            }
+        ]
+    },
+    {
+        "id" : "haas",
+        "name" : "Haas",
+        "color" : "#B6BABD",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/haas.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/haas.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/haas-logo.png.transform/2col/image.png",
+        "driver" : [
+            "hulkenberg",
+            "kevin_magnussen"
+        ],
+        "fullTeamName" : "MoneyGram Haas F1 Team",
+        "base" : "Kannapolis, United States",
+        "teamChlef" : "Ayao Komatsu",
+        "technicalChlef" : "Andrea De Zordo",
+        "chassls" : "VF-24",
+        "powerUnit" : "Ferrari",
+        "firstTeamEntry" : "2016",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068767588_16by9North.jpg.img.640.medium.jpg/1710336572484.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2063254208_16by9South.jpg.img.640.medium.jpg/1710336571559.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047814108_16by9Centre.jpg.img.640.medium.jpg/1710336572538.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2071568009_16by9North.jpg.img.640.medium.jpg/1710336571874.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068387705_16by9Centre.jpg.img.640.medium.jpg/1710336571918.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068819024_16by9North.jpg.img.640.medium.jpg/1710336572681.jpg"
+        ],
+        "description" : "Haas, najmłodszy zespół w stawce, zadebiutował w imponujący sposób w 2016 roku i tym samym stał się pierwszym od trzech dekad zespołem F1 kierowanym wyłącznie przez Amerykanów. Założona przez przemysłowca Gene'a Haasa, ma siedzibę w Stanach Zjednoczonych, w tym samym obiekcie w Kannapolis w Karolinie Północnej, co jego zwycięski zespół NASCAR Sprint Cup Series, Stewart-Haas Racing. Zespół napędzany silnikiem Ferrari ma także brytyjską fabrykę w Banbury…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Nowy i bardzo doświadczony skład Kevina Magnussena i Nico Hulkenberga nie może zapobiec utrzymującemu się spadkowi w rankingach, ponieważ samochód VF-23 zmaga się ze zużyciem opon podczas wyścigów, pomimo kilku występów w kwalifikacjach w Q3."
+            },
+            {
+                "year" : "2022",
+                "description" : "Powrót byłego kierowcy Kevina Magnussena zapewnia oszałamiający wynik P5 w otwierającym sezon Bahrajnie i pierwsze pole position na ulewnym deszczu Interlagos w listopadzie. Zdobądź w sumie znacznie lepsze 37 punktów, co podniesie ich na 8. miejsce w końcowej klasyfikacji."
+            },
+            {
+                "year" : "2021",
+                "description" : "Zakończ rok bez punktu, decydując się skupić na samochodzie na rok 2022, a nie na sezonowym rozwoju maszyny na rok 2021. Mick Schumacher dominuje kolegę z zespołu Nikitę Mazepina w zupełnie nowym składzie debiutantów, uzyskując najlepszy wynik na Węgrzech: 12. miejsce ."
+            },
+            {
+                "year" : "2020",
+                "description" : "Nie mogąc powstrzymać spirali spadków, zespół spadł na 9. miejsce w tabeli, zdobywając zaledwie trzy punkty w ostatnim roku ery Grosjeana-Magnussena. Sezon kończy się w dramatyczny sposób, gdy Romain Grosjean cudem wychodzi z ognistego wypadku przy dużej prędkości w Bahrajnie."
+            },
+            {
+                "year" : "2019",
+                "description" : "Bajka Haasa w końcu napotyka wyboistość na drodze, gdy walczą o opanowanie swojej opornej maszyny VF-19. Spadają na ósme miejsce w tabeli, a Romain Grosjean i Kevin Magnussen zgromadzili między sobą zaledwie 28 punktów."
+            },
+            {
+                "year" : "2018",
+                "description" : "Szybki postęp z roku na rok trwa i awansowaliśmy na piąte miejsce w końcowej klasyfikacji, a gdyby nie niepotrzebne błędy, mogłoby być na czwartym miejscu. Nieudane postoje obu samochodów w Australii pozbawiają je najlepszego w historii wyniku w wyścigu, a naruszenie przepisów paliwowych i nielegalna podłoga prowadzą do dyskwalifikacji odpowiednio w USA i we Włoszech. Niemniej jednak bardzo obiecujący."
+            },
+            {
+                "year" : "2017",
+                "description" : "Romain Grosjean łączy siły z nowym kolegą z zespołu, którym jest zadziorny Duńczyk Kevin Magnussen, a Haas udowadniają, że ich debiutancki sezon nie był błyskawiczny, zdobywając 47 punktów – o 18 więcej niż w 2016 roku – i utrzymując ósme miejsce w tabeli."
+            },
+            {
+                "year" : "2016",
+                "description" : "Stwórz doświadczony skład na swój inauguracyjny sezon, zapewniając usługi Romaina Grosjeana, dziesięciokrotnego zdobywcy podium w barwach Lotus oraz byłego kierowcy Saubera i testera Ferrari, Estebana Gutierreza. Wszystko składa się w oszałamiającą całość: Grosjean zajmuje szóste i piąte miejsce w pierwszych dwóch wyścigach zespołu, a następnie zdobywa kolejne trzy gole, co daje im przyzwoite ósme miejsce w końcowej tabeli konstruktorów – co jest najlepszym debiutem nowego zespół w tym stuleciu."
+            }
+        ]
+    },
+    {
+        "id" : "williams",
+        "name" : "Williams",
+        "color" : "#64C4FF",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/williams.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/williams.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/williams-logo.png.transform/2col/image.png",
+        "driver" : [
+            "albon",
+            "sargeant"
+        ],
+        "fullTeamName" : "Williams Racing",
+        "base" : "Grove, United Kingdom",
+        "teamChlef" : "James Vowles",
+        "technicalChlef" : "Pat Fry",
+        "chassls" : "FW46",
+        "powerUnit" : "Mercedes",
+        "firstTeamEntry" : "1978",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050471453_16by9Centre.jpg.img.640.medium.jpg/1710773775829.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047862303-16by9Centre.jpg.img.640.medium.jpg/1710773776175.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047806090_16by9Centre.jpg.img.640.medium.jpg/1710773775768.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047839044_16by9North.jpg.img.640.medium.jpg/1710773775155.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032501504_16by9South.jpg.img.640.medium.jpg/1710773775618.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068817928_16by9Centre.jpg.img.640.medium.jpg/1710773775181.jpg"
+        ],
+        "description" : "Kierowany błyskotliwością i pasją zmarłego Sir Franka Williamsa, Williams wyrósł ze skromnych początków, aby stać się kolosem Formuły 1, którego pod względem trwałych sukcesów nie mają sobie równych wszyscy z wyjątkiem Ferrari i McLarena. W ciągu ostatnich czterdziestu lat zespół zdobywał zwycięstwa w Grand Prix i chwałę w mistrzostwach, wychowując jednocześnie największe talenty w tym sporcie, zarówno w kokpicie, jak i poza nim. Po decyzji rodziny Williamsów o odejściu po sprzedaży zespołu firmie Dorilton Capital w 2020 roku rozpoczęła się nowa era…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Awansuj na siódme miejsce w klasyfikacji generalnej pod wodzą nowego szefa zespołu Jamesa Vowlesa. Maszyna FW45 wykazuje niesamowitą prędkość w kwalifikacjach i na prostych, a najlepszym wynikiem w wyścigu jest siódme miejsce Alexa Albona w Montrealu i Monzy.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/williams-tbt-2023.jpg"
+            },
+            {
+                "year" : "2022",
+                "description" : "Pomimo tego, że FW44 czasami pokazywał obiecujące tempo – szczególnie w rękach Alexa Albona, który w kwalifikacjach zajmuje znakomite dziewiąte miejsce – zdobył zaledwie osiem punktów w całym sezonie, pozostawiając zespół na 10. i ostatnim miejscu w końcowej klasyfikacji.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/Brazil/Friday/1440800084.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Przeżyj coś w rodzaju odrodzenia, zdobywając podium w deszczowym Grand Prix Belgii dzięki uprzejmości regularnej gwiazdy kwalifikacji do Q3, George'a Russella. Awans na ósme miejsce w klasyfikacji generalnej w kampanii, którą niestety zniweczyła śmierć założyciela firmy, Sir Franka Williamsa, w listopadzie.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/2021manual/2021BelgiumManualAdds/sunday/1337089118.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Po raz pierwszy w historii zakończyć sezon bez punktu, ale przyszłość zespołu jest pewna, gdy nowi właściciele przejmą obowiązki od rodziny Williamsów, a na rok 2021 i kolejne lata zostaną uzgodnione bliższe powiązania techniczne z dostawcami silników, Mercedesem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/AbuDhabi/Tuesday/1291325809.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Jeden punkt z 21 wyścigów zwiastuje najgorszą kampanię w historii zespołu, pomimo dołączenia do składu byłego zwycięzcy Grand Prix Roberta Kubicy. Z drugiej strony debiutant George Russell wyróżnia się jako gwiazda przyszłości, pokonując w każdej rundzie swojego doświadczonego kolegę z drużyny.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2019/AbuDhabi/Friday/AN7T2327_20191129114337895.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "Niestety, tendencja spadkowa obserwowana w ostatnich sezonach nadal się utrzymuje, a ich liczba punktów spada do pojedynczych liczb. Pozostawia ich na ostatnim miejscu w tabeli, pomimo największych wysiłków kierowców Lance'a Strolla i Siergieja Sirotkina.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Abu%20Dhabi/Sunday/dcd1825no109.jpg.img.640.medium.jpg/1543133797746.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Powrót Paddy'ego Lowe'a na stanowisko dyrektora technicznego następuje zbyt późno, aby naprawdę wpłynąć na FW40, który zwraca zaledwie 83 punkty (wobec 138 punktów swojego poprzednika) w rękach weterana Felipe Massy i nowicjusza z zespołu Lance'a Strolla. Niespodziewane podium dla Strolla w Azerbejdżanie to ich jedyny wynik w pierwszej piątce w tym roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2017/Azerbaijan/Sunday/dcc1725ju703.jpg.img.640.medium.jpg/1498416736458.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Zespół Williamsa, który nie dotrzymuje tempa rozwoju rywalom, spada na piąte miejsce w klasyfikacji konstruktorów, za Force India. Valtteri Bottas zdobywa jedyne w tym roku podium w Kanadzie, a Felipe Massa emocjonalnie żegna się z zespołem – i padokiem – odchodząc z wyścigów F1 pod koniec roku. Kanadyjski debiutant Lance Stroll zostaje zastąpiony na sezon 2017.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Brazil/Sunday/dcd1613no967.jpg.img.640.medium.jpg/1479077439419.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Williams umacnia swoją pozycję trzeciego najlepszego zespołu w wyścigach F1, ale po zakończeniu poprzedniego roku z drugim najszybszym samochodem jest sfrustrowany możliwością jeszcze większego oddalenia się od władczych Srebrnych Strzał i bycia zastąpionym przez odradzający się skład Ferrari. Dwa miejsca na podium dla Valtteriego Bottasa i Felipe Massy to najważniejsze punkty w roku, w którym FW37 wyglądał imponująco na szybkich torach, ale niewygodnie na wolniejszych.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/F1%20Game/dcd1528ma386.jpg.img.640.medium.jpg/1450711747168.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Połączenie doskonałego podwozia, mocy Mercedesa i pary kierowców Bottas-Massa sprawia, że ​​zespół wraca do formy. FW36 jest często jedynym prawdziwym konkurentem samochodów fabrycznych Mercedesa i choć zwycięstwa pozostają nieuchwytne, w klasyfikacji generalnej zajmuje trzecie miejsce po występach na podium w ośmiu z 19 wyścigów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/W%202014.jpg.img.640.medium.jpg/1426101349831.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "Rozpoczęli kampanię z dużymi oczekiwaniami, ale napędzany silnikiem Renault FW35 był ogromnym rozczarowaniem i zarówno Maldonado, jak i nowicjusz z zespołu Bottas spędzali sezon na ściganiu się w dużej mierze poza punktami, zdobywając zaledwie dwa gole na drodze do zdobycia przez zespół dziewiątego miejsca w klasyfikacji generalnej.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202013.jpg.img.640.medium.jpg/1421833269868.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Przejście na silnik Renault pomaga zwiększyć konkurencyjność, a Maldonado odnosi pierwsze zwycięstwo Williamsa od 2004 roku w Hiszpanii. Jednak niespójne kwalifikacje (w przypadku Senny) i liczne incydenty (w przypadku Maldonado) utrudniają postęp, a zespół cofa się w miarę postępu sezonu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202012.jpg.img.640.medium.jpg/1421833218188.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Najgorszy sezon w historii zespołu, słaba niezawodność i przeciętne tempo. Zdobądź zaledwie pięć punktów i tylko trzy razy przejdź do Q3. Dyrektor techniczny Sam Michael odchodzi, a jego miejsce zajmuje były członek McLarena Mike Coughlan.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202011.jpg.img.640.medium.jpg/1421833234276.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "Mieszane szczęście na początku wyścigu, obaj kierowcy od czasu do czasu dostają się do trzeciej części wyścigu i zdobywają dolną granicę punktów. Wyniki znacznie się poprawiły w połowie sezonu, a Barrichello był czwarty w Walencji. Hulkenberg zaskakuje Brazylię pole position, a zespół zajmuje w sumie szóste miejsce. Hulkenberg zrezygnował z pracy dla pastora Maldonado w 2011 roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/W%202010.jpg.img.640.medium.jpg/1426101349181.jpg"
+            },
+            {
+                "year" : "2009",
+                "description" : "Nie udało się wykorzystać na początku sezonu bycia jedną z zaledwie trzech drużyn wyposażonych w innowacyjny podwójny dyfuzor. FW31 jest konsekwentny i niezawodny, ale nigdy nie osiąga tempa na podium. Ogłoś przejście z Toyoty na Cosworth w roku 2010.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202009.jpg.img.640.medium.jpg/1421833242714.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Sezon zaczyna się dobrze od podium Nico Rosberga w Australii, ale potem nie dorównuje tempem rozwoju rywalom. Drugie miejsce w Singapurze, najważniejszy moment roku, ale spadek z czwartego na ósme w końcowej klasyfikacji z 26 punktami.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202008.jpg.img.640.medium.jpg/1421833206549.jpg"
+            },
+            {
+                "year" : "2007",
+                "description" : "FW29 okazuje się znacznie bardziej niezawodny niż jego poprzednik, a zespół odnotował zaledwie siedem odejść zamiast 20. Alexander Wurz odchodzi na emeryturę przed finałem sezonu i zostaje zastąpiony przez Kazukiego Nakajimę, który zachowuje to stanowisko na rok 2008.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202007.jpg.img.640.medium.jpg/1421832997536.jpg"
+            },
+            {
+                "year" : "2006",
+                "description" : "Rozczarowujący sezon pozwolił drużynie zająć ósme miejsce w tabeli. Pakiet napędzany silnikiem Cosworth od początku zapowiada się obiecująco, w tym najszybsze okrążenie na otwarciu sezonu w Bahrajnie, ale wyzwanie szybko maleje. Dwadzieścia DNF, z najlepszymi wynikami dwa szóste miejsca dla Marka Webbera.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202006.jpg.img.640.medium.jpg/1421833083371.jpg"
+            },
+            {
+                "year" : "2005",
+                "description" : "Zajmij piąte miejsce w klasyfikacji, a następnie pożegnaj się z partnerami silnikowymi, BMW i Nickiem Heidfeldem, który po zdobyciu pierwszego pole position opuścił pięć ostatnich wyścigów z powodu choroby/kontuzji. Najlepszy wynik Monako, obaj kierowcy na podium.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202005.jpg.img.640.medium.jpg/1421833104206.jpg"
+            },
+            {
+                "year" : "2004",
+                "description" : "Ralf Schumacher opuszcza sześć wyścigów z powodu złamania kręgosłupa w wypadku w Indy. Zastąpiony przez Marca Gene'a, a następnie Antonio Pizzonię. Zespół porzucił radykalnego przedniego skrzydłowego „morsa” po rozczarowującym początku sezonu. Zakończ go na wysokim poziomie zwycięstwem w Brazylii. Czwarty w rankingach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202004.jpg.img.640.medium.jpg/1421833135274.jpg"
+            },
+            {
+                "year" : "2003",
+                "description" : "Dramatyczna poprawa formy w drugiej połowie sezonu dzięki czterem zwycięstwom w wyścigach. Zajmij drugie miejsce w tabeli za Ferrari po przegranej w ostatnim wyścigu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202003.jpg.img.640.medium.jpg/1421833094454.jpg"
+            },
+            {
+                "year" : "2000 - 2002", 
+                "description" : "Pomimo wygrywanych wyścigów nie był w stanie stawić czoła poważnemu mistrzowskiemu wyzwaniu dominującemu zespołowi Ferrari.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%202000%202002.jpg.img.640.medium.jpg/1421833115545.jpg"
+            },
+            {
+                "year" : "1997",
+                "description" : "Jacques Villeneuve zdobywa swoje pierwsze i jedyne mistrzostwo kierowców, a Williams zdobywa koronę konstruktorów po raz dziewiąty.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201997.jpg.img.640.medium.jpg/1421833124210.jpg"
+            },
+            {
+                "year" : "1996",
+                "description" : "Damon Hill zdobywa dla Williamsa mistrzostwo kierowców, a zespół zdobywa ósmy tytuł konstruktora.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201996.jpg.img.640.medium.jpg/1421833150259.jpg"
+            },
+            {
+                "year" : "1994",
+                "description" : "Pierwsza ofiara śmiertelna Williamsa to śmierć Ayrtona Senny na torze Imola. W ponurym sezonie zespół zdobywa mistrzostwo konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201994.jpg.img.640.medium.jpg/1421833046487.jpg"
+            },
+            {
+                "year" : "1993",
+                "description" : "Alain Prost zdobywa swoje czwarte mistrzostwo kierowców i ogłasza odejście ze sportu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201993.jpg.img.640.medium.jpg/1421833160096.jpg"
+            },
+            {
+                "year" : "1992",
+                "description" : "Nigel Mansell wygrywa pierwsze pięć rund sezonu, a on i zespół zdobywają tytuły zarówno w klasyfikacji kierowców, jak i konstruktorów. Następnie Mansell opuszcza sport, aby rywalizować w IndyCar.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201992.jpg.img.640.medium.jpg/1421833065885.jpg"
+            },
+            {
+                "year" : "1986",
+                "description" : "Właściciel zespołu Frank Williams zostaje poważnie ranny w wypadku samochodowym. W typowy dla siebie sposób nadal przewodzi drużynie.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201986.jpg.img.640.medium.jpg/1421833033005.jpg"
+            },
+            {
+                "year" : "1980",
+                "description" : "Alan Jones zdobywa mistrzostwo kierowców, a Williams zdobywa tytuł konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201980.jpg.img.640.medium.jpg/1421833056281.jpg"
+            },
+            {
+                "year" : "1979",
+                "description" : "Clay Regazzoni wygrywa Grand Prix Wielkiej Brytanii, zapewniając Williamsowi pierwsze zwycięstwo w Formule 1.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201979.jpg.img.640.medium.jpg/1421833277974.jpg"
+            },
+            {
+                "year" : "1978",
+                "description" : "Założenie Williams Grand Prix Engineering. Alan Jones podpisał kontrakt z kierowcą zespołu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Williams/Williams%201978.jpg.img.640.medium.jpg/1421833021969.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "alpine",
+        "name" : "Alpine",
+        "color" : "#0093CC",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/alpine.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/alpine.jpg",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/alpine-logo.png.transform/2col/image.png",
+        "driver" : [
+            "gasly",
+            "ocon"
+        ],
+        "fullTeamName" : "BWT Alpine F1 Team",
+        "base" : "Enstone, United Kingdom",
+        "teamChlef" : "Bruno Famin",
+        "technicalChlef" : "Joe Burnell / David Wheater / Ciaron Pilbeam",
+        "chassls" : "A524",
+        "powerUnit" : "Renault",
+        "firstTeamEntr`y" : "1986",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2065862959_16by9Centre.jpg.img.640.medium.jpg/1710344868390.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068751707_16by9Centre.jpg.img.640.medium.jpg/1710344868238.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047863362_16by9North.jpg.img.640.medium.jpg/1710344869685.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053202714_16by9South.jpg.img.640.medium.jpg/1710344868553.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048232840_16by9Centre.jpg.img.640.medium.jpg/1710344868060.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032079751_16by9Centre.jpg.img.640.medium.jpg/1710344867842.jpg"
+        ],
+        "description" : "Alpine może być stosunkowo nową nazwą w Formule 1, ale słynny dział samochodów sportowych Renault ma bogate dziedzictwo sportów motorowych. Rebranding zespołu na rok 2021 był kolejnym krokiem w odrodzeniu Renault w F1, rozpoczętym w 2016 roku wraz z przejęciem ówczesnego składu Lotus. Ich następnym celem muszą być już zwycięzcy wyścigów w nowym przebraniu, regularne podia i walka o tytuł…",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Spadek na samotne szóste miejsce w rankingach po poważnych zmianach w zarządzaniu w połowie sezonu. Esteban Ocon i Pierre Gasly są blisko siebie, a każdy z nich zdobył podium odpowiednio w Monako i Zandvoort.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/alpine-tbt-2023.png"
+            },
+            {
+                "year" : "2022",
+                "description" : "Żadnego podium, ale wyprzedź odwiecznych rywali McLarena i awansuj na czwarte miejsce w końcowej klasyfikacji. Fernando Alonso, sfrustrowany problemami z niezawodnością, odchodzi pod koniec sezonu do Astona Martina, a w 2023 roku zostanie zastąpiony przez Pierre’a Gasly’ego, tworząc z Estebanem Oconem całkowicie francuski skład.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/Mexico/Friday/1437383323.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Dziewicze zwycięstwo Alpine w F1 miało miejsce na Węgrzech dzięki uprzejmości Estebana Ocona, wspomaganego przez zaciekłą obronę przed szarżującym Lewisem Hamiltonem przez kolegę z zespołu Fernando Alonso, który również stanął na podium w Katarze.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2021/Hungary/Sunday/1331816101.jpg"
+            },
+            {
+                "year" : "2020",
+                "description" : "Trzy miejsca na podium – pierwsze od powrotu Renault do zakładów – sygnalizują znaczący krok naprzód przed rebrandingiem zespołu Alpine i powrotem Fernando Alonso w 2021 roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sakhir2020FIAPoolImages/Sun/XPB_SAKHIR_SUNDAY_07.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Postęp w klasyfikacji generalnej mistrzostw zostaje zatrzymany, jak na ironię, przez nowych klientów Renault, McLarena, którzy degradują je na piąte miejsce w klasyfikacji generalnej, mimo że Daniel Ricciardo zapewnił sobie najlepszy jak dotąd wynik, zajmując czwarte miejsce we Włoszech.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/XPB_Images/Italy_2019/Sunday/XPB_1006988_HiRes.jpg"
+            },
+            {
+                "year" : "2018",
+                "description" : "Awans do stawki trwa nadal, a zespół pokonuje Haasa i staje się „najlepszym z pozostałych” za trzema najlepszymi zespołami. Jeszcze nie całkiem pretendenci do podium – piąte miejsca w Azerbejdżanie i Niemczech to ich najlepsze wyniki – ale ich oczywisty potencjał odciąga Daniela Ricciardo od Red Bulla na rok 2019 i zastępuje Carlosa Sainza.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Germany/Sunday/dcd1822jy981.jpg.img.640.medium.jpg/1532284739514.jpg"
+            },
+            {
+                "year" : "2017",
+                "description" : "Pierwszy samochód zespołu zaprojektowany w oparciu o własny zespół napędowy poczynił ogromne postępy, co zaowocowało siedmiokrotnym wzrostem zdobytych punktów i czterokrotnym przeskokiem w rankingach. W połowie sezonu Jolyon Palmer zastąpił kolegę z zespołu Nico Hulkenberga, a Carlos Sainz dołączył, tworząc jeden z najsilniejszych składów kierowców w stawce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2017/Abu%20Dhabi/Sunday/dcc1726no201.jpg.img.640.medium.jpg/1511700658325.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Ciężki rok przejściowy, ponieważ samochód RS16 – pierwotnie zaprojektowany w oparciu o silnik Mercedesa – okazuje się daleki od konkurencyjności w rękach byłego kierowcy McLarena Kevina Magnussena i byłego testera Lotus Jolyona Palmera. Strzelaj gole zaledwie trzy razy, z najlepszym wynikiem na siódmym miejscu dla Magnussena w Rosji i zajmij dziewiąte miejsce w końcowej klasyfikacji.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Austria/Sunday/dcd1603jy753.jpg.img.640.medium.jpg/1467562379734.jpg"
+            },
+            {
+                "year" : "2015",
+                "description" : "Ostatni sezon pod nazwą Lotus przed przejęciem Renault. Forma znacznie poprawiła się w porównaniu z rokiem 2014, a napędzany Mercedesem E23 zgromadził 78 punktów w rękach Grosjeana i Maldonado, a trzecie miejsce tego pierwszego w Belgii było najlepszym wynikiem zespołu.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/F1%20Game/dcc1523au242.jpg.img.640.medium.jpg/1450459795954.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "W klasyfikacji generalnej spadł na ósme miejsce, gdy zespół walczył o to, aby E22 i jego hybrydowy zespół napędowy Renault były niezawodne i konkurencyjne. Grosjean zdobył osiem punktów, a Maldonado tylko dwa, a jego najlepsze wyniki w tym roku zajmują ósme miejsca w Hiszpanii i Monako.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Lotus/L%202014.jpg.img.640.medium.jpg/1426097557113.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "Wybiegnij z bramek, a Raikkonen zwyciężył w Australii w szybkim i przyjaznym oponom wyścigu E21. Samochód sprawdza się dobrze na większości torów i w większości warunków, pomagając Raikkonenowi i Grosjeanowi zdobyć kolejne 13 miejsc na podium między sobą, co daje zespołowi w sumie mocne czwarte miejsce.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Lotus/L%202013.jpg.img.640.medium.jpg/1426097557494.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Nazwa zespołu oficjalnie zmienia się na Lotus z Renault (dawniej Benetton, 1986-2001). Powracający do F1 Kimi Raikkonen i Romain Grosjean w ciągu sezonu kilka razy zdobywali podium i niezmiennie utrzymują wiodące tempo, ale zespół musi poczekać do Abu Zabi na jedyne zwycięstwo inspirowane Raikkonenem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/teams/Lotus/L%202012.jpg.img.640.medium.jpg/1426097557399.jpg"
+            }
+        ]
+    },
+    {
+        "id" : "sauber",
+        "name" : "Kick Sauber",
+        "color" : "#52E252",
+        "photoBolide" : "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2024/kick-sauber.png.transform/4col/image.png",
+        "photoLogo" : "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/kick%20sauber.png",
+        "phootLogoStatistics" : "https://media.formula1.com/content/dam/fom-website/teams/2024/kick-sauber-logo.png.transform/2col/image.png",
+        "driver" : [
+            "bottas",
+            "zhou"
+        ],
+        "fullTeamName" : "Stake F1 Team Kick Sauber",
+        "base" : "Hinwil, Switzerland",
+        "teamChlef" : "Alessandro Alunni Bravi",
+        "technicalChlef" : "James Key",
+        "chassls" : "C44",
+        "powerUnit" : "Ferrari",
+        "firstTeamEntry" : "1993",
+        "photos" : [
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047992871_16by9North.jpg.img.640.medium.jpg/1709546422276.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050602978-16by9Centre.jpg.img.640.medium.jpg/1709546421613.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048352894_16by9South.jpg.img.640.medium.jpg/1709546421645.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045515483_16by9North.jpg.img.640.medium.jpg/1709546422446.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047814126-16by9Centre.jpg.img.640.medium.jpg/1709546421383.jpg",
+            "https://media.formula1.com/content/dam/fom-website/manual/DriverAndTeamImages/2024/2027466084-16by9Centre.jpg.img.640.medium.jpg/1709546421799.jpg"
+        ],
+        "description" : "Odnosząc znaczne sukcesy w światowych samochodach sportowych, gdzie pomagał rozwijać wschodzące talenty przyszłych gwiazd F1, Michaela Schumachera i Heinza-Haralda Frentzena, Peter Sauber poprowadził swój tytułowy zespół do F1 w 1993 roku.Od tego czasu zespół ugruntował swoją pozycję filara stawki, zostając zwycięzcami wyścigów pod krótkimi właścicielami BMW i zdobywając zasłużoną reputację nie tylko dzięki produkcji konkurencyjnych samochodów, ale także dzięki rozwijaniu młodych kierowców. W ostatnich sezonach ścigali się pod nazwą Alfa Romeo, a w 2026 roku staną się fabrycznym składem Audi, ale w 2024 roku nowy sponsor tytularny nada słynnemu szwajcarskiemu zespołowi nową tożsamość.",
+        "biography" : [
+            {
+                "year" : "2023",
+                "description" : "Ostatni sezon rywalizacji pod pseudonimem Alfa Romeo jest rozczarowujący, ponieważ zespół w klasyfikacji konstruktorów spadł na dziewiąte miejsce. Najlepsze wyniki to P8 dla Valtteriego Bottasa w Bahrajnie i Katarze.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/TeamByTeam2023/alfa-romeo-tbt-2023.png"
+            },
+            {
+                "year" : "2022",
+                "description" : "Awans o trzy miejsca w rankingach – Valtteri Bottas bardziej cieszy się z roli lidera zespołu, a debiutant Zhou Guanyu bardziej niż tylko zdobycie swojego miejsca. Pod koniec sezonu na pierwszych stronach gazet pojawia się informacja, że ​​od 2026 roku zespół stanie się fabrycznym składem Audi.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2022/Brazil/Friday/1440798495.jpg"
+            },
+            {
+                "year" : "2021",
+                "description" : "Spadek na dziewiąte miejsce w tabeli za Williamsem, a 10 z 13 punktów zdobył były mistrz Kimi Raikkonen, który pod koniec sezonu kończy karierę w F1. Przygotuj zupełnie nowy skład na rok 2022, złożony z byłego kierowcy Mercedesa Valtteriego Bottasa i nowicjusza z Chin Zhou Guanyu."
+            },
+            {
+                "year" : "2020",
+                "description" : "Kolejny sezon niezbyt częstych szczytów – oba samochody zdobyły punkty w swoim rodzinnym wyścigu w Imoli i oba uzyskały Q3 w Turcji – ponownie kończy się na 8. miejscu w klasyfikacji generalnej, a Kimi Raikkonen i Antonio Giovinazzi zgromadzili między sobą zaledwie osiem punktów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2020/AbuDhabi/Tuesday/1291325746.jpg"
+            },
+            {
+                "year" : "2019",
+                "description" : "Postęp zwalnia, ponieważ C38 okazuje się frustrująco niespójny, nawet z doświadczonym Kimi Raikkonenem za kierownicą. Niemniej jednak utrzymali ósme miejsce w tabeli, a 22 z 57 punktów zdobyli w pełnej wydarzeń przedostatniej rundzie sezonu w Brazylii."
+            },
+            {
+                "year" : "2018",
+                "description" : "Szef zespołu Fred Vasseur kieruje swoim zespołem zaskakująco szybką ścieżką w górę, a ich napędzany Ferrari C37 okazuje się coraz bardziej konkurencyjny, szczególnie w rękach debiutującej gwiazdy Charlesa Leclerca, który zdobywa 39 z 48 punktów – łącznie prawie 10 razy więcej niż w 2017 roku.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2018/Azerbaijan/Sunday/dcd1829ap1982.jpg.img.640.medium.jpg/1525028247337.jpg"
+            },
+            {
+                "year": "2017",
+                "description" : "Kolejna trudna kampania kończy się zaledwie pięcioma punktami mistrzowskimi. Jednakże pojawienie się w połowie sezonu Frederica Vasseura na stanowisku szefa zespołu, a następnie podpisanie umowy sponsoringu tytularnego Alfa Romeo na rok 2017 oraz podpisanie kontraktu z protegowanym Ferrari, Charlesem Leclercem, dobrze wróży lepszą przyszłość.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Misc/Alfa_in_F1/SUT_Italian_Grand__1524229.jpg.img.640.medium.jpg/1512037736049.jpg"
+            },
+            {
+                "year" : "2016",
+                "description" : "Brak funduszy w pierwszej połowie roku oznacza ograniczony rozwój, przez co zespół żałośnie wybiega z tempa. Sytuacja poprawia się po przybyciu nowych właścicieli w połowie sezonu, a Felipe Nasr zdobywa jedyne dwa punkty w swojej kampanii w przedostatniej rundzie w Brazylii, co daje im miejsce w pierwszej dziesiątce w końcowej klasyfikacji przed Manorem.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/sutton/2016/Brazil/Sunday/dcd1615no128.jpg.img.640.medium.jpg/1479203798455.jpg"
+            },
+            {
+                "year": "2015",
+                "description" : "Wróć na ósme miejsce w rankingach dzięki znacznie ulepszonemu samochodowi C34. Nowicjusz Felipe Nasr okazuje się rewelacją, a jego współpraca z Marcusem Ericssonem zdobywa punkty w dziewięciu z 19 rund sezonu. ",
+                "photo": "https://media.formula1.com/content/dam/fom-website/manual/teams/Sauber/dcd1504fe18.jpg.img.640.medium.jpg/1438268241938.jpg"
+            },
+            {
+                "year" : "2014",
+                "description" : "Przetrwaj najgorszy sezon w historii zespołu, kończąc po raz pierwszy kampanię bez sensu. Pomimo największych wysiłków Sutila i Gutierreza, bezkonkurencyjny C33 okazuje się trudny do opanowania, a 11. miejsce tego pierwszego w Australii i na Węgrzech to ich najlepszy wynik.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_14.jpg.img.640.medium.jpg/1421769456056.jpg"
+            },
+            {
+                "year" : "2013",
+                "description" : "C32 wyróżnia się w momencie premiery wyjątkową, wąską konstrukcją bocznej podstawy, ale początkowo nie spełnia oczekiwań. Odnosi znaczne korzyści z śródsezonowych przeglądów opon, gdyż Hulkenberg zakwalifikował się na trzeciej pozycji i zajął piąte miejsce we Włoszech, a zespół zdobył 50 z 57 punktów w sezonie w ostatnich ośmiu rundach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_13.jpg.img.640.medium.jpg/1421769464272.jpg"
+            },
+            {
+                "year" : "2012",
+                "description" : "Sezon zaczyna się dobrze, a Perez zebrał wiele pochwał za imponujące podium w Malezji i Kanadzie. C31 to kompetentny i wszechstronny pakiet i choć Perez i Kobayashi są nierówni, w drugiej połowie sezonu zdobywają kolejne podia we Włoszech i Japonii.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_12.jpg.img.640.medium.jpg/1421769472032.jpg"
+            },
+            {
+                "year" : "2011",
+                "description" : "Dobra pierwsza połowa sezonu Kobayashiego i Pereza, z regularną obecnością w Q3 i miejscami w pierwszej dziesiątce. Perez tęskni za Monako po kraksie w kwalifikacjach, a następnie pauzuje w Kanadzie, gdzie wkracza Pedro de la Rosa. Trudny koniec roku, ale Perez i Kobayashi zostają na rok 2012.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_11.jpg.img.640.medium.jpg/1421769480727.jpg"
+            },
+            {
+                "year" : "2010",
+                "description" : "Tempo i niezawodność C29 napędzanego Ferrari początkowo rozczarowują. Wieloletniego dyrektora technicznego Willy’ego Rampfa zastąpił James Key, były członek Force India. Wyniki stopniowo się poprawiają, regularnie pojawiając się w pierwszej dziesiątce. Nick Heidfeld zastępuje Pedro de la Rosę w ostatnich pięciu rundach.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_10.jpg.img.640.medium.jpg/1421769489129.jpg"
+            },
+            {
+                "year" : "2009",
+                "description" : "Powoli dostosowuje się do nowych przepisów. Podium w Malezji i Brazylii to rzadkie wydarzenie w trudnym roku, w którym spadają na szóste miejsce w rankingach. BMW ogłasza, że ​​wycofa się z F1 po zakończeniu sezonu, a w listopadzie sprzeda zespół z powrotem założycielowi Peterowi Sauberowi.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_09.jpg.img.640.medium.jpg/1421769497305.jpg"
+            },
+            {
+                "year" : "2008",
+                "description" : "Radical F1.08 okazał się niezwykle skuteczny, napędzając Roberta Kubicę do pierwszego zwycięstwa zespołu w Kanadzie i zmieniając go w prawdziwych pretendentów do tytułu, stając na podium w dziewięciu innych wyścigach. Zmiany na koniec sezonu mniej skuteczne, ale nadal zajmują trzecie miejsce z imponującymi 135 punktami.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_08.jpg.img.640.medium.jpg/1421769505713.jpg"
+            },
+            {
+                "year" : "2007",
+                "description" : "Od samego początku zajmuje pozycję „najlepszych z pozostałych” za Ferrari i McLarenem, zdobywając punkty we wszystkich 17 wyścigach, w tym w dwóch na podium. Heidfeld udowadnia, że ​​jest dominującym kierowcą, ale mimo brutalnego wypadku w Kanadzie Kubica także notuje kilka mocnych finiszów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_07.jpg.img.640.medium.jpg/1421769513938.jpg"
+            },
+            {
+                "year" : "2006",
+                "description" : "Piąte miejsce w rankingach w pierwszej kampanii pod kontrolą BMW, pomimo wczesnych problemów z niezawodnością. W połowie sezonu rozstanie się z Jacques’em Villeneuve’em, zastępując go Robert Kubica zdobywa włoskie podium i dorównuje wynikowi węgierskiego kolegi z zespołu Nicka Heidfelda.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_06.jpg.img.640.medium.jpg/1421769521515.jpg"
+            },
+            {
+                "year" : "2005",
+                "description" : "W czerwcu Peter Sauber ogłasza, że ​​ustąpi ze stanowiska szefa zespołu po negocjacjach w sprawie przejęcia przez BMW na rok 2006.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_05.jpg.img.640.medium.jpg/1421769528973.jpg"
+            },
+            {
+                "year" : "2004",
+                "description" : "Duża inwestycja w tunel aerodynamiczny zwraca się sowicie dzięki imponująco spójnemu sezonowi. Zdobądź punkty w 12 wyścigach, aby zająć samotne szóste miejsce w tabeli konstruktorów. Podpisz kontrakt z byłym mistrzem Jacques’em Villeneuve’em na rok 2005.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_04.jpg.img.640.medium.jpg/1421769542785.jpg"
+            },
+            {
+                "year" : "2003",
+                "description" : "Trudny sezon, punkty zdobyte tylko w pięciu (w większości mokrych) wyścigach. Najlepszy wynik w Indianapolis, trzecie miejsce Heinza-Haralda Frentzena, piąte Nick Heidfeld. Widzi także, jak zespół po raz pierwszy prowadzi Grand Prix. Obaj kierowcy odpadli w sezonie 2004. Szósty w mistrzostwach konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_03.jpg.img.640.medium.jpg/1421769550506.jpg"
+            },
+            {
+                "year" : "2002",
+                "description" : "Jedenaście punktów wystarczy, aby zapewnić zespołowi piąte miejsce w klasyfikacji konstruktorów. Najlepszy wynik sezonu to czwarte i piąte miejsce w Grand Prix Hiszpanii.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_02.jpg.img.640.medium.jpg/1421769558452.jpg"
+            },
+            {
+                "year" : "2001",
+                "description" : "Najlepszy sezon zespołu w historii, czwarte miejsce w klasyfikacji konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_01.jpg.img.640.medium.jpg/1421769565432.jpg"
+            },
+            {
+                "year" : "2000",
+                "description" : "Zajmij ósme miejsce w mistrzostwach konstruktorów z zaledwie sześcioma punktami. Najwyższe miejsca na podium to dwa piąte miejsca w Niemczech i Monako. Obydwa samochody wycofały się z Grand Prix Brazylii po spektakularnych awariach tylnego skrzydła.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_00.jpg.img.640.medium.jpg/1421769573829.jpg"
+            },
+            {
+                "year" : "1997",
+                "description" : "Najlepszy występ w sezonie to trzeci występ Johnny'ego Herberta w Grand Prix Węgier.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_97.jpg.img.640.medium.jpg/1421769583479.jpg"
+            },
+            {
+                "year" : "1996",
+                "description" : "Johnny Herbert był trzeci dla zespołu podczas Grand Prix Monako, a jego kolega z zespołu Heinz-Harald Frentzen zajął czwarte miejsce. Zespół zajmuje siódme miejsce w mistrzostwach konstruktorów.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_96.jpg.img.640.medium.jpg/1421769593551.jpg"
+            },
+            {
+                "year" : "1995",
+                "description" : "Zespół zdobywa pierwsze podium, a Heinz-Harald Frentzen zajmuje trzecie miejsce na torze Monza.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_95.jpg.img.640.medium.jpg/1421769600931.jpg"
+            },
+            {
+                "year" : "1993",
+                "description" : "Zespołowi udało się zdobyć punkty w swoim pierwszym Grand Prix, a JJ Lehto zajął piąte miejsce w Republice Południowej Afryki. Zakończ sezon na szóstym miejscu w klasyfikacji konstruktorów z 12 punktami.",
+                "photo" : "https://media.formula1.com/content/dam/fom-website/manual/Sauber_93.jpg.img.640.medium.jpg/1421769636067.jpg"
+            }
+        ]
+    }
+]

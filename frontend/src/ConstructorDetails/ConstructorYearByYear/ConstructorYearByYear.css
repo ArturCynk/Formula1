@@ -1,0 +1,33 @@
+.constructor-year-by-year {
+    padding: 20px;
+    text-align: center;
+    color: black;
+  }
+  
+  .constructor-year-by-year h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .constructor-year-by-year-detail {
+    margin-bottom: 40px;
+  }
+  
+  .constructor-year-by-year-detail h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .constructor-year-by-year-detail img {
+    width: 716px;
+    height: 400px;
+
+    margin-bottom: 10px;
+  }
+  
+  .constructor-year-by-year-detail p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  

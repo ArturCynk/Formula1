@@ -1,0 +1,104 @@
+.container {
+  width: calc(100% - 40px);
+  background-color: #15151e;
+  color: white;
+  padding: 20px 20px 50px 20px;
+  margin-bottom: 15px;
+  z-index: 1000;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  margin-bottom: 15px;
+  border-bottom-right-radius: 20px;
+}
+
+.headerItem {
+  cursor: pointer;
+  margin-bottom: 15px;
+  padding: 0 10px;
+  position: relative;
+  color: white;
+  font-size: 26px;
+  text-decoration: none;
+}
+
+.headerItem:last-of-type {
+  position: absolute;
+  left: 200px
+}
+
+
+.headerItem:hover {
+  border-bottom: 2px solid red;
+  margin-bottom: 13px;
+}
+
+.headerItem svg{
+  color: red !important;
+  font-size: 18px;
+}
+
+.driversList {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
+.driverItem {
+  display: flex;
+  align-items: center;
+}
+
+.colorBox {
+  width: 5px;
+  height: 15px;
+  margin-right: 10px;
+}
+
+
+
+.driverItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom-right-radius: 20px;
+  transition: border-color 0.3s; 
+  text-decoration: none;
+}
+
+
+
+.driverName {
+  font-weight: bold;
+}
+
+.driverInfo {
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}
+
+.driverInfo span {
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+.driverInfo span span {
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+}
+
+.driverItem svg {
+  margin-left: 10px;
+  margin-right: 5px;
+  color: white;
+}

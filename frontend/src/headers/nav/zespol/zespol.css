@@ -1,0 +1,48 @@
+.all-teams {
+    color: white;
+    margin-bottom: 10px;
+    font-size:20px;
+    line-height: 20px;
+    padding-bottom:10px ;
+    border: none;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom-right-radius: 20px;
+    display: block;
+    text-decoration: none;
+}
+
+.container-construcor {
+    background-color: #15151e;
+    padding: 20px;
+}
+
+.team-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.team {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.team-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+
+.team-header span {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.car-image {
+    width: 100%;
+    border-radius: 10px;
+}

@@ -1,0 +1,499 @@
+[
+    {
+        "driverId" : "max_verstappen",
+        "color" : "#3671C6",
+        "fistName" : "Max",
+        "lastName" : "Verstappen",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Netherlands.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+        "photoForInformation" :  "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/verstappen",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/MAXVER01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/verstappen",
+        "biography" : [
+            "Jest Maxem z imienia i Maxem z natury.",
+            "Przybywając jako najmłodszy zawodnik Formuły 1 w historii w wieku zaledwie 17 lat, Verstappen wykorzystał swój samochód, rywali i rekordy sportowe do granic możliwości. Holender o dziecięcej twarzy i sercu lwa chwycił Toro Rosso – a potem Red Bulla – za rogi dzięki swojemu instynktownemu stylowi wyścigowemu.",
+            "Najmłodszy zdobywca punktów w F1 wkrótce stał się najmłodszym zwycięzcą wyścigu – w wieku 18 lat i 228 dni – dzięki oportunistycznej, ale kontrolowanej jeździe w debiucie dla Red Bulla w Barcelonie 2016. Prawdziwy kierowca wyścigowy koło w koło, kolejna oszałamiająca jazda w Brazylii z tyłu stawki na podium na zdradliwym mokrym torze nie brakowało pochwał.",
+            "Bezkompromisowa postawa Verstappena i twarda obrona czasami wpędzały go w konflikt z kolegami i płatnikami. Jednak błędy, które początkowo zniweczyły jego potencjał, ustąpiły miejsca dojrzałości, podczas gdy brawura i energia, które uczyniły go hitowym talentem, pozostały – a zwycięstwa wciąż nadchodziły.",
+            "Doprowadzili do jego pierwszej korony kierowców F1 po legendarnym już pojedynku w ostatniej rundzie z Lewisem Hamiltonem w 2021 r. Następnie w 2022 r. obronił tytuł mistrza, a następnie odniósł niesamowity trzeci z rzędu triumf w mistrzostwach, obejmujący rekordowe 19 zwycięstw z 23 Grand Prix.",
+            "Syn byłego kierowcy F1 Josa Verstappena i superszybkiej mamy kartingowej Sophie Kumpen, wyścigi mają zapisane w jego genach. Pomimo wyprowadzki od taty i zamieszkania w Monako, Verstappen pozostaje blisko rodziny i choć nie boi się mówić, co myśli, nadal potrafi być zaskakująco nieśmiały.",
+            "Po tym, jak w wieku zaledwie 24 lat został pierwszym mistrzem świata Holandii, oczekiwania wobec czołowego zawodnika nowej generacji są ogromne – ale w przypadku Verstappena istnieje poczucie, że niebo jest granicą."
+        ],
+        "photos" :[
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/sutton/2022/Bahrain/Thursday/1385967943",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Verstappen/verstappen-miami-race",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Verstappen/1488925635-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Verstappen/1499061206-16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Verstappen/1488926732-16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "perez",
+        "color" : "#3671C6",
+        "fistName" : "Sergio",
+        "lastName" : "Perez",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Mexico.jpg",
+        "photoForStatistics" :  "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/perez",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/SERPER01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/perez",
+        "biography" : [
+            "To wojownik o delikatnym dotyku z krainy Lucha Libre.",
+            "Reputacja Pereza w F1 została zbudowana na odmiennym podejściu do wyścigów Grand Prix. Z jednej strony jest mocnym wojownikiem, który przebija się przez grupę i zdobywa punkty. Nie boi się dodać odrobiny pikanterii swoim starciom na torze, nawet jego koledzy z drużyny nie zawsze uciekają przed upałem Meksykanina.",
+            "Z drugiej strony Perez to sprawny operator, mistrz w zarządzaniu oponami, aby uzyskać dodatkowe osiągi i zapewnić sobie przewagę w strategii. Zdecydowany faworyt na starcie po okresie spędzonym w Sauberze, McLarenie, Force India i Racing Point, Perez wyrósł na analitycznego kierowcę wyścigowego i gracza zespołowego.",
+            "Dumny rodak, rewolwerowiec z Guadalajary zgromadził więcej punktów niż jakikolwiek inny Meksykanin w historii F1. W Sakhir 2020 dorównał także bohaterowi i rodakowi Pedro Rodriguezowi, zdobywając jako pierwszy flagę w szachownicę – dzięki temu występowi znalazł się w gronie pretendentów do tytułu Red Bulla.",
+            "Odegrał tam drugoplanową rolę w zwycięskich kampaniach Maxa Verstappena w sezonie 2021/22/23, dodając również do swojego osobistego dorobku kolejne pięć zwycięstw. Być może jego własne wyzwanie o tytuł nie będzie zapewnione, szczególnie z Verstappenem w drużynie, ale Perez ciężko pracuje i bije sercem."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Perez/1574200949-16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Perez/1565310353-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Perez/1580569636-16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Perez/1580781528-16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Perez/1578209055-16by9North"
+        ]
+    },
+    {
+        "driverId" : "leclerc",
+        "color" : "#E80020",
+        "fistName" : "Charles",
+        "lastName" : "Leclerc",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Monaco.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/leclerc",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/CHALEC01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/leclerc",
+        "biography" : [
+            "Urodzony w śródziemnomorskiej idylli Monako, Leclerc przybył do F1 pod wpływem fali oczekiwań.",
+            "Praktycznie niezrównany w drodze po korony GP3 i Formuły 2, pokazał olśniewający wachlarz umiejętności, od gorących pole position, przez zwycięstwa – nawet gdy jego samochód dwukrotnie zapalił się na Silverstone – po umiejętność przebijania się przez stado. Zwycięstwo w kolejnych mistrzostwach nauczyło także Leclerca radzenia sobie z presją, co jest kolejnym przydatnym narzędziem w wielkim stawie wyścigów Formuły 1.",
+            "Wchodząc do F1 w 2018 roku, Leclerc pokazał przebłyski balistycznego tempa w soboty i świetność wyścigów w niedziele, ciągnąc swojego Saubera poza jego granice i zdobywając miejsce w wyścigach Ferrari na rok 2019, którego nie można kupić, wchodząc w buty ostatniego mistrza świata Scuderii, Kimi Raikkonena.",
+            "Tam od razu umieścił kota wśród przysłowiowych gołębi, nie bojąc się walczyć koło w koło z uznanym numerem jeden, Sebastianem Vettelem. Po pierwszym zwycięstwie w F1 na torze Spa tydzień później nastąpiło kolejne na uświęconym stadionie Ferrari, Monza. Tifosi znaleźli kolejnego nowego bohatera, który następnie stał się pierwszym człowiekiem, który w sezonie w Scuderii przewyższył liczbę punktów Vettela, co powtórzył w miażdżący sposób w następnym roku.",
+            "Sezony 2020 i 21 nie przyniosły Ferrari żadnych owoców, ale Leclerc podtrzymał swoje postanowienie wyłonienia prawdziwego pretendenta do tytułu w 2022 roku. Z trzema zwycięstwami, 11 podium i dziewięcioma pole position był jedynym człowiekiem, który był w stanie konsekwentnie podejmować walkę o mistrzostwo Max Verstappen – wyczynu, którego on i Scuderia niestety nie mogli powtórzyć w 2023 roku.",
+            "Poza samochodem Leclerc jest skromny i troskliwy, ale potem ma swoją własną, bardzo osobistą misję. Ten ekscytujący młody talent ściga się dla swojego zmarłego ojca Herve oraz przyjaciela i mentora Julesa Bianchiego, kierowcy F1, który zmarł w 2015 roku.",
+            "Sądząc po dotychczasowych dowodach, napawa ich oboje dumą."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2027373349_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050987064_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053482369_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "sainz",
+        "color" : "#E80020",
+        "fistName" : "Carlos",
+        "lastName" : "Sainz",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Spain.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sainz",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/CARSAI01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2023/sainz",
+        "biography" : [
+            "To matador z madryckiej rodziny królewskiej wyścigów.",
+            "Po wejściu na Bull Ring F1 w parze z Maxem Verstappenem w Toro Rosso w 2015 roku, Sainz szybko pokazał swojego ducha walki. Nieustępliwy zawodnik, stawia samochód na krawędzi, przedzierając się przez stado. Nic dziwnego, że Sainz zyskał przydomek Chilli.",
+            "Hiszpan jest jednak inteligentny i instynktowny, przemyślając przebieg wyścigu i zdobywając punkty. Ten spokojny temperament podąża za nim poza torem, gdzie pozostaje niewzruszony presją związaną z budowaniem kariery Grand Prix ze znanym nazwiskiem.",
+            "Sainz jest synem dwukrotnego rajdowego mistrza świata, także jego imiennika, i wniósł część umiejętności prowadzenia pojazdu od taty na tor F1 – junior uwielbia pyszną dawkę driftu dla jednego.",
+            "Podążając śladami opon swojego słynnego ojca, Sainz miał do wypełnienia duże buty wyścigowe – najpierw w McLarenie, gdzie zastąpił swojego bohatera z dzieciństwa Fernando Alonso, a teraz w Ferrari, na fotelu poprzednio należącym do Sebastiana Vettela.",
+            "Życie w cieniu sportowych gigantów nigdy nie jest łatwe, ale Sainz pokazał zapał i chęć, aby sobie z tym poradzić – odniósł zwycięstwo w Grand Prix w obu dotychczasowych sezonach w Scuderii. Vamosie!"
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2030176836_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050526049_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2100663829_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "norris",
+        "color" : "#FF8000",
+        "fistName" : "Lando",
+        "lastName" : "Norris",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LANNOR01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/norris",
+        "biography" : [
+            "Lando Norris może nie zostać nazwany na cześć buntownika z Gwiezdnych Wojen, Lando Calrissiana – jego mamie po prostu spodobał się ten pseudonim – ale ma talent i ducha walki, których jest pod dostatkiem.",
+            "McLaren miał na koncie brytyjskiego nastolatka przez dwa lata, zanim w 2019 roku szybko wprowadził go do galaktyki gwiazd F1. Petarda w jego karierze juniorów, z zamiłowaniem do pole position i bójek koło w koło, Norris nie pozwolił je w dół.McLaren miał na koncie brytyjskiego nastolatka przez dwa lata, zanim w 2019 roku szybko wprowadził go do galaktyki gwiazd F1. Petarda w jego karierze juniorów, z zamiłowaniem do pole position i bójek koło w koło, Norris nie pozwolił je w dół.",
+            "W połączeniu z wysoko ocenianym – i znacznie bardziej doświadczonym – Carlosem Sainzem, jego debiutancki sezon był imponujący, Norris wyprzedził Hiszpana w bezpośredniej walce kwalifikacyjnej, zdobywając punkty 11 razy i tylko o włos nie znalazł się w pierwszej dziesiątce miejsce w mistrzostwach.",
+            "Po raz pierwszy na podium stanęło w 2020 r., a w kolejnych dwóch sezonach było ich coraz więcej – o włos nie stracił zwycięstwa w Rosji 2021 – zdominował innego starszego kolegę z zespołu, Daniela Ricciardo, i mocno ugruntował swoją pozycję w najwyższej klasie rozgrywkowej F1.",
+            "Poza torem Norris emanuje skromnym urokiem, a artystyczna strona traktuje go jako hobby, projektując i malując własny sprzęt wyścigowy. Na przyszłość skupiamy się na połączeniu kunsztu i ambicji na torze, ponieważ McLaren polega na obietnicach młodości, które zabiorą ich z powrotem na szczyt.",
+            "Norris ma nadzieję, że docisk będzie z nim…"
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032675059_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045580404_16by9South",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2030040878_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "piastri",
+        "color" : "#FF8000",
+        "fistName" : "Oscar",
+        "lastName" : "Piastri",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Australia.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/piastri",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/OSCPIA01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/piastri",
+        "biography" : [
+            "Urodzony w Melbourne, zaledwie rzut beretem od miejsca, w którym odbędzie się Grand Prix Australii, marzenia młodego Oscara Piastriego o ściganiu się w Formule 1 zostały rozpalone przez gwiazdorów tego sportu jeżdżących rykiem po jego lokalnych ulicach, znanych również jako Albert Park.",
+            "Jednak urzeczywistnienie tego marzenia wymagałoby ogromnego zaangażowania i poświęcenia, a przeprowadzka do Europy – dokonana przez takich rodaków jak Mark Webber i Daniel Ricciardo przed nim – jest jedynym sposobem na zmierzenie się z najlepszymi i przyciągnięcie uwagi decydentów sportowych.",
+            "Wykorzystując sukcesy na australijskiej scenie kartingowej jako odskocznię, Piastri kontynuował naukę rzemiosła w mistrzostwach w całej Europie, zanim jako 15-latek po raz pierwszy zasmakował zawodów w samochodach jednomiejscowych – dwa miejsca na podium w F4 UAE to znak, że wszystko jest w porządku przyjść.",
+            "Stamtąd popłynął sukces. Wicemistrz Wielkiej Brytanii w F4. Mistrz Formuły Renault. Mistrz F3. Mistrz F2 (o ponad 50 punktów). Piastri nie tylko wspiął się po drabinie juniorów w jednomiejscowych samochodach, ale rzucił się na nią, aby głośno zapukać do drzwi F1.",
+            "Piastri był tak imponujący, że dwa zespoły F1 pokłóciły się o jego usługi na rok 2023, dodając nowy wymiar rynkowi kierowców i tzw. „głupiemu sezonowi”. McLaren i niezbyt długoletni kibice Alpine odnieśli zwycięstwo, a ich debiutant odpłacił się im sowicie, zdobywając dwa podium w niezwykle imponującym debiucie."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053514280_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068364720-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050993420_16by9South"
+        ]
+    },
+    {
+        "driverId" : "russell",
+        "color" : "#27F4D2",
+        "fistName" : "George",
+        "lastName" : "Russell",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/russell",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/GEORUS01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/russell",
+        "biography" : [
+            "To kierowca, którego motto brzmi: „Jeśli masz wątpliwości, jedź na pełnych obrotach”.",
+            "George Russell żył według tego przez całą swoją dotychczasową karierę w F1, pokonując doświadczonego kolegę z zespołu Roberta Kubicę we wszystkich 21 Grand Prix w swoim debiutanckim sezonie, co pozwoliło Williamsowi z powrotem na podium w 2021 r. i odnosząc swoje pierwsze zwycięstwo w wyścigu z Mercedesem w 2022 r. .",
+            "Ta doskonała prędkość bazowa dobrze służyła Russellowi, gdy zdobywał tytuły w drodze do Formuły 1. Brytyjczyk szturmem zdobył mistrzostwa GP3 w 2017 r. i pod ogromną presją zdobył koronę Formuły 2 w 2018 r.",
+            "Dostrzegając jego potencjał, mistrzowie świata Mercedes postanowili zapisać go do swojego programu dla juniorów w 2017 roku, kiedy Russell miał już na stole kontrakt z DTM. Zdobył więcej doświadczenia podczas sesji treningowych w Force India i testów dla Srebrnych Strzał, zanim wylądował na swoim wyścigowym jeździe Williamsa napędzanym Mercedesem.",
+            "Odmowa oddania pola rywalom i zaangażowanie w trudne podanie stanowią podstawę zwycięskiej mentalności Russella. I to właśnie zapewniło mu powołanie do zastąpienia Lewisa Hamiltona w jednorazowym występie w Mercedesie na zawodach Sakhir 2020, kiedy panujący mistrz został pokonany przez Covid-19.",
+            "Ten zwrot gwiazd sprawił, że Russellowi zabrakło do pole position zaledwie o 0,026 s, a następnie wyprzedził niezłomnego Mercedesa Valtteriego Bottasa. Tylko nieudany postój w pit stopie i rozdzierające serce przebicie opony w końcówce uniemożliwiły niemal pewne pierwsze zwycięstwo wschodzącego supersamochodu.",
+            "W 2021 roku nie spuszczał głowy z Williamsa, zdobywając swoje pierwsze punkty i podium, cały czas mając oko na większą nagrodę. Po udowodnieniu, że jest osobą pracowitą i nieustępliwą, nagroda przyszła w postaci szansy na zmierzenie się z rodakiem i siedmiokrotnym mistrzem Hamiltonem na identycznych maszynach.",
+            "To była szansa, którą Russell rozkoszował się i odniósł swoje pierwsze zwycięstwo w F1 – i jedyne zwycięstwo Mercedesa w 2022 roku – w Brazylii. Sezon 2023 okazał się trudniejszy, ale jeśli Srebrne Strzały zdołają się odbić i zapewnić naprawdę konkurencyjny samochód, oferta o tytuł z pewnością będzie kusząca. Ogromne wyzwanie, ale jak zawsze „Rakieta Russell” będzie dawać z siebie wszystko."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Russell/1580518422-16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Russell/1565349731-16by9South",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Russell/1562756438-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Russell/1528512214",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Russell/1573721079-16by9North"
+        ]
+    },
+    {
+        "driverId" : "alonso",
+        "color" : "#229971",
+        "fistName" : "Fernando",
+        "lastName" : "Alonso",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Spain.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/alonso",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/FERALO01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/alonso",
+        "biography" : [
+            "Michael Schumacher był niekwestionowanym królem Formuły 1 na początku XXI wieku, zdobywając zwycięstwa i mistrzostwa w tempie, które było wówczas po prostu niespotykane. Do obalenia legendy Ferrari z tronu potrzebny był ktoś wyjątkowy, a fakt, że zrobił to Fernando Alonso, mówi wszystko, co musisz wiedzieć o Hiszpanie.",
+            "Zaciekle konkurencyjny Alonso nie wstydzi się swojego talentu, oceniając siebie na 9/10 „we wszystkim”, a niewielu wtajemniczonych nie zgodzi się z tym, że jego występy w F1 charakteryzują się zawrotną szybkością, błyskotliwym myśleniem taktycznym, wzorowym kunsztem wyścigowym, brzytwą - bystre oko do szczegółów i nieustanna determinacja, by wygrać.",
+            "Na początku był seryjnym bijaczem rekordów, a kiedyś był najmłodszym pole position w F1, zwycięzcą wyścigu, mistrzem świata i podwójnym mistrzem świata, gdy zdobywał sukcesy w zespole Renault. Nawet Alonso nie mógł jednak kontynuować tej niesamowitej passy w swojej późniejszej karierze, ponieważ pomimo okresów spędzonych w McLarenie i Ferrari nie udało mu się dodać kolejnego tytułu do swojej kolekcji.",
+            "Jednak po dwóch latach nieobecności w wyścigach Formuły 1 – i z dwoma zwycięstwami w Le Mans w kieszeni – Alonso powrócił wraz z Alpine w 2021 roku. Jego prędkość i determinacja nie osłabły, w tym roku ponownie stanął na podium, ale sfrustrowany słabą niezawodnością – i brak długoterminowego kontraktu – w następnym sezonie ponownie zdecydował się na zmianę statku.",
+            "A po ośmiu miejscach na podium w swoim pierwszym sezonie w Aston Martinie Alonso ma teraz nadzieję, że to z zielonym zespołem w końcu powróci na zwycięską drogę, ponieważ nie dokończył spraw z F1…"
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053204844_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045385016_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2029639192_16by9Centre"
+        ]
+    },  
+    {
+        "driverId" : "hamilton",
+        "color" : "#27F4D2",
+        "fistName" : "Lewis",
+        "lastName" : "Hamilton",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hamilton",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LEWHAM01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/hamilton",
+        "biography" : [
+            "„Still I Rise” – to słowa widniejące z tyłu kasku Lewisa Hamiltona i wytatuowane na jego ramionach, a odkąd w 2007 roku rozwiał oczekiwania jednym z najlepszych debiutantów w historii F1, to dosłownie wszystko, czego dokonał: wzniósł się na wyższy poziom znalazł się na szczycie listy wszechczasów pole position, wyprzedzając swojego bohatera Ayrtona Sennę, wskoczył na pierwsze miejsce w kolumnie zwycięstw, wyprzedzając niepowtarzalnego Michaela Schumachera, a następnie dorównał legendarnemu Niemcowi siedmioma tytułami mistrza świata.",
+            "Czy on jest KOZEM? Niewielu zaprzeczyłoby, że bierze udział w rozmowach – a co więcej, osiągnął swój cel, łącząc swoją nieustanną prędkość z odmową dostosowywania się do stereotypów dotyczących tego, jak kierowca wyścigowy powinien myśleć, ubierać się i zachowywać.",
+            "Szacunek w F1 ciężko jest zdobyć, ale Hamilton – a ściślej sir Lewis Hamilton – cieszy się nim od każdego ze swoich kolegów. Dlaczego? Ponieważ wiedzą, że niezależnie od toru, niezależnie od warunków i sytuacji, kiedy opadnie jego osłona przeciwsłoneczna i zgasną światła, nadejdzie czas Hammertime."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Hamilton/1574181499-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Hamilton/1565053794",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Hamilton/1561001354-16by9South",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Hamilton/GettyImages-1574050637-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverGalleries2023/Hamilton/GettyImages-1528207280-16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "stroll",
+        "color" : "#229971",
+        "fistName" : "Lance",
+        "lastName" : "Stroll",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Canada.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320,t_16by9North/content/dam/fom-website/drivers/2024Drivers/stroll",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LANSTR01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/stroll",
+        "biography" : [
+            "Dla Strolla, nastoletniej sensacji, która lubi deszczową pogodę, nie ma czegoś takiego jak „za wcześnie”. Stroll, jeden z najfajniejszych dzieciaków w sieci, został zaprezentowany przez Williamsa wkrótce po swoich 18. urodzinach, zanim ukończył szkołę średnią i uzyskał prawo jazdy.",
+            "Stroll oznaczał biznes w swoim debiutanckim sezonie 2017, ustanawiając po drodze rekordy. Jako oportunistyczny kierowca wskoczył na podium w Baku, będąc najmłodszym debiutantem, któremu się to udało. Jako syn bogatego przedsiębiorcy Stroll jest przyzwyczajony do szampańskiego stylu życia, ale teraz wie, że mus smakuje jeszcze słodko na mównicy. Następnie na Monzy opanował ulewy i został najmłodszym kierowcą w historii, który zajął pierwsze miejsce w pierwszym rzędzie.",
+            "Kanadyjczyk, zdeterminowany starter, uwielbia odrabiać straty na pierwszym okrążeniu i walczyć o punkty. Stroll ma potencjał, aby zostać długoterminowym elementem Formuły 1 – czego obszerną ilustracją jest dziewicze pole position i kolejne dwa miejsca na podium w 2020 roku.",
+            "Nastąpiły one po tym, jak jego ojciec Lawrence stał na czele konsorcjum, które przejęło Force India w połowie sezonu 2018, a następnie przekształciło je z Racing Point w Aston Martin na rok 2021. Przyszłość rysuje się w jasnych barwach zarówno dla zespołu, jak i ich młodego kierowcy – a nawet jeśli pada deszcz, a Stroll może kontynuować jazdę na ostrym końcu stada."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032281505_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2063248829_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032079239_16by9North"
+        ]
+    },
+    {
+        "driverId" : "tsunoda",
+        "color" : "#6692FF",
+        "fistName" : "Yuki",
+        "lastName" : "Tsunoda",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Japan.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/tsunoda",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/YUKTSU01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/tsunoda",
+        "biography" : [
+            "W całej historii Formuły 1 żaden japoński kierowca nie wygrał Grand Prix Mistrzostw Świata. Czy Yuki Tsunoda może być pierwsza? Red Bull z pewnością tak uważa, ponieważ młodzik jest na dobrej drodze do dostania się do drużyny seniorów, jeśli nadal będzie robił wrażenie tak, jak robił to przez ostatnie kilka lat.",
+            "Awans Tsunody na najwyższy poziom sportów motorowych był zdumiewająco szybki: od wyścigów w japońskiej F4 do Formuły 1 w AlphaTauri, obecnie RB, w nieco ponad trzy lata, po przybyciu do Europy w 2019 roku bez żadnej wiedzy o torach.",
+            "Jednak po powolnym starcie w F3, po którym nastąpił niezwykle imponujący debiutancki sezon w F2, w wyniku którego zajął trzecie miejsce w mistrzostwach i odniósł po drodze trzy zwycięstwa, Tsunoda udowodnił, że ma prędkość i rzemiosło wyścigowe, aby przedrzeć się do Siatka F1.",
+            "Być może nie przystosował się do wyścigów Grand Prix tak szybko, jak do F2, ale mając już ugruntowaną pozycję w Formule 1, mógł jeszcze znaleźć się w ostrej końcówce w Red Bullu."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050945287_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048375559_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2051044320_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "bearman",
+        "color" : "#E80020",
+        "fistName" : "Oliver",
+        "lastName" : "Bearman",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png",
+        "photoForInformation" : "",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/OLIBEA01.png",
+        "photoHelmet" : "",
+        "biography" : [
+            "Jest oficjalnym rezerwowym Ferrari i zadebiutował w wyścigu F1 w Arabii Saudyjskiej za chorego Carlosa Sainza.",
+            "Bearman (18 l.) po raz pierwszy posmakował maszyn F1 w Scuderii pod koniec ubiegłego roku, przygotowując się do dwóch występów dla Haasa w pierwszym treningu podczas Grand Prix Meksyku i Abu Zabi.",
+            "Od tego czasu odbył kilka kolejnych przejazdów testowych w F1 i obecnie rywalizuje w F2 z zespołem Prema Racing, wygrywając cztery wyścigi i w zeszłym roku zajmując szóste miejsce w klasyfikacji serii Feeder.",
+            "Po trudnym początku kampanii Premy w Bahrajnie w 2024 roku Bearman ponownie zdobył pole position na szybkim torze w Jeddah, ale w obliczu obowiązków związanych z zastępstwem Sainza musiał tymczasowo zrezygnować ze swoich zobowiązań w F2.",
+            "Nie żeby narzekał – oszałamiający występ sprawił, że młody Anglik zdobył sześć punktów za siódme miejsce w swoim pierwszym Grand Prix, co bezgranicznie zwiększyło jego przyszłe perspektywy w F1."
+        ]
+    },
+    {
+        "driverId" : "hulkenberg",
+        "color" : "#B6BABD",
+        "fistName" : "Nico",
+        "lastName" : "Hulkenberg",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Germany.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hulkenberg",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/NICHUL01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/hulkenberg",
+        "biography" : [
+            "To superbohater z talentem, który może stać się supergwiazdą wyścigów – gdyby tylko mógł napiąć mięśnie w czołowej drużynie. „Hulk” z F1 wykazał się niesamowitą siłą i wytrzymałością jako maruder pomocy w barwach Williamsa, Force India, Saubera, Renault, Racing Point, Astona Martina i Haasa w trakcie swojej kariery sięgającej 2010 roku.",
+            "W tym debiutanckim sezonie Hulkenberg poradził sobie ze zmieniającymi się warunkami na torze i zdobył doskonałe pole position w Brazylii, pokazując, że ma nie tylko mózg, ale także siłę. Od tego czasu jego zdolność do ciągłego zdobywania punktów uczyniła go bardzo cenionym graczem zespołowym. W 2015 roku jego reputacja ponownie wzrosła, gdy w weekend z dala od codziennej pracy wygrał dla Porsche klasyczny 24-godzinny wyścig Le Mans, po raz pierwszy o to prosząc.",
+            "Off-torowe alter ego Hulkenberga jest twardo stąpające po ziemi – to typ kierowcy, który w drodze na metę trzyma swój parasol, gdy pada deszcz – i ma bezczelne poczucie humoru. Kiedy osiągnął niechciany rekord większości startów w wyścigach bez miejsca na podium, wyśmiał to jako początek „ery Hulkenberga”.",
+            "Na szczęście nawet po wyrzuceniu go z Renault pod koniec 2019 r., era popularnego Niemca trwała nadal, oferując kilka zastępczych (i wyróżniających się) przejazdów w latach 2020 i 2022, a po powrocie na pełny etat do F1 wraz z Haasem, „ Hulk wykorzystał kolejną szansę na uporządkowanie historii."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2071568009_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068387705_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2063254208_16by9South"
+        ]
+    },
+    {
+        "driverId" : "kevin_magnussen",
+        "color" : "#B6BABD",
+        "fistName" : "Kevin",
+        "lastName" : "Magnussen",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Denmark.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/magnussen",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/KEVMAG01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/magnussen",
+        "biography" : [
+            "Nazwij go samotnym strażnikiem lub indywidualistą, ale Magnussen jest w Formule 1 tylko z jednego powodu – aby się ścigać.",
+            "Być może jest kierowcą F1 drugiej generacji – podążającym za swoim ojcem Janem na starcie – ale idole Magnussena pochodzą ze „złotej ery” wyścigów Grand Prix, kiedy tacy jak Juan Manuel Fangio i Stirling Moss ryzykowali wszystko dla miłości sportu.",
+            "Umiejętność kierowcy z Roskilde została udowodniona w debiucie McLarena, który poprowadził go przez kolejne stopnie juniorów, kiedy podczas Grand Prix Australii 2014 znalazł się w pierwszej trójce, stając się pierwszym Duńczykiem, który stanął na podium w F1.",
+            "Trudniej było znaleźć inne chwile szampana, ponieważ zostawił McLarena na sezon w Renault, zanim osiedlił się w czwórce wśród pokrewnych dusz w Haas. Po roku spędzonym w Stanach, gdzie ścigał się między innymi w wyścigach Indy i samochodach sportowych, w 2022 roku wrócił do amerykańskiego zespołu, zdobywając pierwsze w historii pole position podczas Grand Prix Brazylii.",
+            "Jego mięsiste manewry i podejście z łokciami do przodu zapewniły mu reputację złego chłopca na torze, co wciąż wprawia go w zakłopotanie. Poza samochodem Magnussen jest wyluzowany i uprzejmy. W końcu ma wymarzoną pracę – a przyjechał tu tylko po to, żeby się ścigać."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068767588_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047814108_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068819024_16by9North"
+        ]
+    },
+    {
+        "driverId" : "albon",
+        "color" : "#64C4FF",
+        "fistName" : "Alexander",
+        "lastName" : "Albon",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Thailand.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/albon",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ALEALB01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/albon",
+        "biography" : [
+            "Urodzony w Londynie, ale ścigający się pod banderą Tajlandii, pierwsze słowo Alexandra Albona było w rzeczywistości włoskie. Tym słowem było Ferrari – chociaż swoją wielką przerwę w F1 przeżył w innym włoskim zespole.",
+            "Uwielbiając Michaela Schumachera i marząc o jednym dniu ścigania się w Formule 1, młodszy Albon został poprowadzony do tytułu GP3 w 2016 roku przez niejakiego Charlesa Leclerca. Następnie porzucił swoją wielką przyjaźń z Georgem Russellem na torze i wziął udział w walce o tytuł Formuły 2 w 2018 roku do samego końca.",
+            "Ukończywszy karierę w wielkiej lidze F1 wraz z innym rówieśnikiem – Lando Norrisem – w 2019 roku Albon rozmawiał na torze z Toro Rosso w wyścigach otwierających, zdobywając w połowie sezonu awans do Red Bull Racing.",
+            "Albon, stylowy wyprzedzacz o mentalności mistrzowskiej, nie był przerażony współpracą z Maxem Verstappenem przez drugą połowę swojego debiutanckiego sezonu, zajmując miejsca w pierwszej szóstce w ośmiu z dziewięciu wyścigów w Red Bullu w 2019 roku.",
+            "Utrzymywanie kontaktu z przyszłym mistrzem okazało się trudniejsze w 2020 roku, a Red Bull usunął go ze swojego składu wyścigowego. Co jednak najważniejsze, Albon pozostał kierowcą testowym i rezerwowym, co utrzymywało go w centrum uwagi szefów zespołów, co doprowadziło do jego powrotu na start w 2022 roku wraz z Williamsem, gdzie ugruntował reputację szybkiego kwalifikatora i dojrzałego kierowcy wyścigowego.",
+            "Wyluzowany i wesoły, z bezczelnym uśmiechem, tajski kierowca jest popularny wśród swoich rówieśników – co nie zawsze jest łatwe w kotle rywalizacji sportów motorowych – ale w Formule 1 nie można odnieść sukcesu będąc popularnym. Wyzwanie stojące przed Albonem pozostaje duże – jak najlepiej wykorzystać rzadką drugą szansę w F1."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047839044_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068817928_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047806090_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "ocon",
+        "color" : "#0093CC",
+        "fistName" : "Esteban",
+        "lastName" : "Ocon",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/France.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ocon",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ESTOCO01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1024/content/dam/fom-website/manual/Helmets2024/ocon",
+        "biography" : [
+            "Jeśli istnieje jedno słowo, które dominuje w karierze Estebana Ocona, jest to „poświęcenie”.",
+            "Kiedy Ocon był jeszcze obiecującym karterem, rodzice Ocona sprzedali dom, zawiesili pracę i rozpoczęli życie w trasie, mieszkając w przyczepie kempingowej i podróżując z toru na tor, aby wspierać rozwijającą się karierę syna.",
+            "Poświęcenie, rozumiesz – ale zadziałało. W 2014 roku Ocon przebił się w świecie jednomiejscowych samochodów, pokonując niejakiego Maxa Verstappena i zdobywając tytuł mistrza Europy F3. Wspierany przez Mercedesa, zdobył tytuł GP3 w następnym roku i był w połowie sezonu DTM w 2016, kiedy zaproponowano mu szansę zastąpienia Rio Haryanto w zespole minnow Manor, począwszy od Grand Prix Belgii.",
+            "Ta szansa zaowocowała w następnym roku pełnoetatową pracą w Force India, gdzie pojedynki koło w koło z wysoko ocenianym kolegą z zespołu Sergio Perezem szybko wyróżniły go jako wschodzącą gwiazdę. Kiedy jednak Lawrence Stroll, ojciec kierowcy wyścigowego Lance’a, wkroczył w połowie 2018 roku, aby zabezpieczyć finansową przyszłość zespołu, napis wisiał na ścianie dla Ocona, który został odsunięty na bok pod koniec roku, aby umożliwić Strollowi Jnr przejście z Williamsa.",
+            "Ocon czekał jednak na swój czas i po roku na uboczu jako kierowca rezerwowy Mercedesa, wrócił na miejsce w wyścigu na rok 2020 w Renault, które w roku 2021 przeszło na firmę Alpine – kiedy jego czekanie w końcu się opłaciło i zdobył bramkę jego – i słynnej francuskiej marki – pierwsze zwycięstwo w F1.",
+            "Nic w karierze Ocona w sportach motorowych nie było łatwe, ale jeśli Oconowi udało się wrócić do stawki F1 i stanąć na podium, to dzięki połączeniu wiary w siebie, determinacji i talentu, który dorównuje najlepszym."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053202714_16by9South",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047863362_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032079751_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "zhou",
+        "color" : "#52E252",
+        "fistName" : "Zhou",
+        "lastName" : "Guanyu",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/China.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/zhou",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/GUAZHO01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1024/content/dam/fom-website/manual/Helmets2024/zhou",
+        "biography" : [
+            "Chiny nigdy nie mogły pochwalić się starterem Grand Prix wśród swoich obywateli – dopóki Zhou Guanyu nie zmienił tego stanu rzeczy, po otrzymaniu powołania do debiutu w F1 dla Alfa Romeo (obecnie Kick Sauber) w 2022 roku.",
+            "Urodzony w Szanghaju kierowca wyścigowy wziął udział w inauguracyjnej Grand Prix swojego rodzinnego miasta w 2004 roku w wieku pięciu lat, kibicując swojemu bohaterowi Fernando Alonso. Jednak chiński kierowca połknął wyścigowego bakcyla i postawił sobie ambitny cel, jakim jest zostanie pierwszym w historii kierowcą F1 w swoim kraju – osiągnięcie wyczynu, którego Ma Qinghua, jedynemu chińskiemu kierowcy, który wziął udział w weekendzie Formuły 1, nigdy nie udało się to osiągnąć.",
+            "Wykazując się śmiałością i poświęceniem, Zhou wcielił swój plan w życie, przeprowadzając się z rodziną do Anglii w wieku zaledwie 12 lat, aby realizować swoje ambicje związane ze sportami motorowymi. Drugie miejsce w mistrzostwach Włoch F4 w 2015 roku udowodniło, że Zhou ma odpowiednie umiejętności – fakt ten zauważył już Ferrari, które rok wcześniej zapisało go do swojej akademii kierowców.",
+            "Przeprowadzka do akademii Renault na rok 2019 zbiegła się z jego debiutem w Formule 2, a Zhou budował swoją pewność siebie w tej serii dzięki licznym zwycięstwom i pole position w ciągu trzech sezonów, co doprowadziło go do walki o tytuł kierowców w 2021 roku.",
+            "To wystarczyło, aby przekonać szefa zespołu Freda Vasseura, aby zaufał Zhou w sezonie 2022 i wystawił go obok byłego kierowcy Mercedesa, Valtteriego Bottasa, co pozwoliło Zhou spełnić jego marzenie o ściganiu się w F1, a nawet zobaczyć, jak radzi sobie na tle własnego dzieciństwa. bohater, Fernando Alonso."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2045515483_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048352894_16by9South",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047814126-16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "ricciardo",
+        "color" : "#6692FF",
+        "fistName" : "Daniel",
+        "lastName" : "Ricciardo",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Australia.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ricciardo",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/DANRIC01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/ricciardo",
+        "biography" : [
+            "Samozwańczy „Honey Badger” jest puszysty na zewnątrz i zadziorny w środku. Kierowcy uważajcie, bo za wyluzowaną osobowością i szerokim uśmiechem Ricciardo kryje się ostry jak brzytwa kierowca wyścigowy z zadziorem.",
+            "Australijczyk łączy w sobie niesamowitą prędkość z imponującym rzemiosłem wyścigowym. Nie bojąc się przekraczać granic, jeśli oznacza to podanie podania, Ricciardo jest sprawdzonym zwycięzcą wyścigów, który dzięki odpowiednim maszynom może konsekwentnie kończyć wyścig na końcu tabeli mistrzowskiej.",
+            "Ricciardo, który za czasów swojej kariery w Red Bullu regularnie zdobywał podium, ochrzcił kroki na całym świecie oblewając australijską kulturą „Shoey” – popijając szampana z przemoczonego buta wyścigowego. Tak, to głupie, ale świętowanie znaku towarowego pokazuje, dlaczego kocha się go za poczucie humoru, ale nigdy go nie lekceważy na torze.",
+            "Kolejne przeniesienia w jego karierze do fabrycznego zespołu Renault w 2019 r., a następnie do McLarena w 2021 r. przyniosły nowe wyzwania dla pilota z Perth, ale nie udało mu się spełnić jego marzenia o podążaniu za Jackiem Brabhamem i Alanem Jonesem w roli kolejnego mistrza świata z Down Under – i opuściło go siatki na początek 2023 r.",
+            "Wkrótce jednak znalazł drogę powrotną, dołączając do Red Bulla w trzeciej roli kierowcy i robiąc wystarczające wrażenie, aby w połowie sezonu zdobyć miejsce w wyścigach w siostrzanym składzie AlphaTauri, obecnie RB. Powrót był początkowo krótkotrwały – złamana ręka po wypadku podczas treningów wykluczyła go z pięciu Grand Prix – ale kiedy wrócił, stara prędkość pozostała.",
+            "Przyszłe miejsce w roli kolegi z zespołu Maxa Verstappena będzie teraz w zasięgu jego wzroku, ale niezależnie od tego, co wydarzy się dalej, Ricciardo z pewnością będzie się uśmiechał."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048386199-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2053498125_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047994666_16by9North"
+        ]
+    },
+    {
+        "driverId" : "gasly",
+        "color" : "#0093CC",
+        "fistName" : "Pierre",
+        "lastName" : "Gasly",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/France.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/gasly",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/PIEGAS01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1024/content/dam/fom-website/manual/Helmets2024/gasly",
+        "biography" : [
+            "Jeśli jest jeden człowiek, który wie, jak wielka może być kariera kierowcy F1, to jest nim Pierre Gasly!",
+            "Latający Francuz został powołany na debiut w Malezji w 2017 roku w miejsce Daniila Kwiata, a po udowodnieniu swoich umiejętności, w następnym roku został kierowcą Toro Rosso. Po kolejnych 21 wyścigach w swojej raczkującej karierze Gasly ponownie awansował – tym razem zastępując wielkiego działacza Red Bulla, Daniela Ricciardo.",
+            "Wydawało się, że Gasly ma talent do bycia we właściwym miejscu o właściwym czasie – cecha ta jest równie przydatna na torze. Seria imponujących występów Toro Rosso w 2018 r. – w tym znakomite czwarte miejsce w Bahrajnie – pokazała, że ​​obiecująco zapowiada się to, co może zrobić z zespołem „A” w 2019 r.",
+            "Niestety, obietnica ta pojawiała się jedynie w przebłyskach, a on szybko ucierpiał z powodu nieprzychylnych porównań z kolegą z zespołu, supergwiazdą, Maxem Verstappenem. Do tego stopnia, że ​​po wakacyjnej przerwie został odesłany z powrotem do Toro Rosso, a inny młody, wschodzący zawodnik – Alex Albon – otrzymał szansę na objęcie „starszego” fotela Red Bulla.",
+            "Ale Gasly odbił się, jak tylko Gasly może. W pozostałych dziewięciu wyścigach sezonu zdobył prawie tyle punktów, ile jego kolega z zespołu Kvyat zdobył przez cały rok i zapewnił sobie najlepszy wynik w historii, zajmując drugie miejsce w Brazylii. Trajektoria ta była kontynuowana w 2020 r., osiągając swój szczyt emocjonalnym dziewiczym zwycięstwem w domowym wyścigu przemianowanej drużyny AlphaTauri we Włoszech i nie poddawał się w 2021 r., kiedy ponownie stanął na podium i zdobył 110 ze 142 punktów drużyny.",
+            "Kiedy w 2022 r. dynamika AlphaTauri ustała, Gasly zdecydował, że nadszedł czas na zmianę – w postaci francuskiego zespołu Alpine z innym Francuzem – i starym przeciwnikiem – Estebanem Oconem jako kolegą z zespołu. Pytanie brzmi teraz, czy może odzyskać dynamikę i zdobyć kolejną szansę w wielkiej karierze F1…"
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2065862959_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2068751707_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2048232840_16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "bottas",
+        "color" : "#52E252",
+        "fistName" : "Valtteri",
+        "lastName" : "Bottas",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/Finland.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/bottas",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/VALBOT01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1024/content/dam/fom-website/manual/Helmets2024/bottas",
+        "biography" : [
+            "Ucząc się swojego rzemiosła na fińskich drogach pokrytych lodem i śniegiem, urodził się, by zostać kierowcą Grand Prix.",
+            "Bottas wyjaśnia, że ​​jeśli potrafisz jeździć po zamarzniętych drogach swojej ojczyzny, to możesz jeździć wszędzie. Do tego dochodzi fińska mentalność – powściągliwość, pracowitość i spokój. Szybka trasa F1 mu nie przeszkadza.",
+            "Debiutując w F1 w Williamsie w 2013 roku, Bottas wkrótce stał się częścią rodziny. Potem nastąpiły punkty i podium, a niezawodny kierowca zgromadził nawet najwięcej punktów bez zwycięstwa. Był to rekord, którego nie lubił, ale który pokazał jego umiejętności. Fakt, że Fin był maszyną do zdobywania punktów, sprawił, że nagle awansował na najbardziej pożądane miejsce w F1 – wolne miejsce Nico Rosberga w Mercedesie, w którym zdobył mistrzostwo.",
+            "Bottas rozkwitł w Srebrnych Strzałach w 2017 roku, uwalniając swoje tempo, aby zdobyć osobiste pole position i zwycięstwa, a także mistrzostwo drużynowe słynnej marki Mercedes u boku Lewisa Hamiltona. Zrównał się nawet z Hamiltonem i Sebastianem Vettelem z 13 podium.",
+            "Dla nieśmiałego faceta dodało to pewności siebie i dodało pewności siebie – choć na bardzo powściągliwy fiński styl. Całej tej pewności potrzebowałby w 2018 r. – sezonie, który Bottas określił jako najgorszy w F1, ponieważ Hamilton nie zdobył żadnych zwycięstw do 11. Było to jednak odzwierciedleniem raczej błyskotliwości jego kolegi z zespołu niż jakichkolwiek niedociągnięć z jego strony.",
+            "Bottas podniósł poprzeczkę na wyższy poziom w 2019 r., odnosząc cztery zwycięstwa i zapewniając przekonujące drugie miejsce w mistrzostwach za Hamiltonem, ale liczba ta spadła do dwóch zwycięstw w porównaniu do 11 zwycięstw jego kolegi z zespołu w 2020 r. i tylko jednego w 2021 r., co skłoniło Mercedesa do rezygnacji z niego po pięciu sezonach.",
+            "W 2022 roku rozpoczął nowy rozdział w swojej karierze w F1, zastępując rodaka Kimi Raikkonena na czele zupełnie nowego składu Alfa Romeo, obecnie Kick Sauber, i biorąc pod swoje skrzydła chińskiego debiutanta Zhou Guanyu."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2027466084-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047992871_16by9North",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050602978-16by9Centre"
+        ]
+    },
+    {
+        "driverId" : "sargeant",
+        "color" : "#64C4FF",
+        "fistName" : "Logan",
+        "lastName" : "Sargeant",
+        "photoFlag" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20States.jpg",
+        "photoForStatistics" : "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png",
+        "photoForInformation" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sargeant",
+        "photoNumber" : "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LOGSAR01.png",
+        "photoHelmet" : "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1024/content/dam/fom-website/manual/Helmets2024/sargeant",
+        "biography" : [
+            "Logan Sargeant został pierwszym amerykańskim kierowcą F1 od prawie ośmiu lat, kiedy stanął na starcie w sezonie 2023, dając krajowi faworyta do ponownego kibicowania.",
+            "Sargeant, płodny zdobywca tytułu w kartingu, chwała w mistrzostwach umknęła mu po przejściu do wyścigów jednomiejscowych, ale pole position i zwycięstwa w wyścigach w prawie każdej kategorii, w której brał udział, podkreśliły jego surową prędkość i potencjał.",
+            "Rzeczywiście, zajęcie drugiego miejsca w F4 w Zjednoczonych Emiratach Arabskich, trzecie w brytyjskiej F4 i trzecie w F3 (stając się także na podium w prestiżowym Grand Prix Makau) pokazało, że może być tam lub gdzieś w różnych mistrzostwach, mając wciąż duży potencjał do być niewykorzystanym.",
+            "Przekonało to również Williamsa do wpisania młodzieńca do swoich ksiąg, gdy dotarł do F2, gdzie więcej zwycięstw w wyścigach i kolejna lokata w pierwszej trójce w 2022 r. zapewniły punkty Super Licencji wymagane do ukończenia podróży i przejścia do F1 z zespołem Grove w 2023 r.",
+            "Od czasu kwintetu występów Aleksandra Rossiego z backmarkerami Manor pod koniec sezonu 2015 Amerykanin nie znalazł się na starcie F1, a Sargeant lubił to zmieniać w swoim pierwszym sezonie, nawet jeśli na papierze pojedynczy punkt był jego jedyną nagrodą.",
+            "A mając w kalendarzu Formuły 1 trzy wyścigi w USA – Miami, Austin i Las Vegas – najnowsza amerykańska gwiazda F1 wie, że będzie motywowana dużym wsparciem ze strony gospodarzy."
+        ],
+        "photos" : [
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2050471453_16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2047862303-16by9Centre",
+            "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/content/dam/fom-website/manual/DriverAndTeamImages/2024/2032501504_16by9South"
+        ]
+    }
+]

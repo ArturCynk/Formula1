@@ -1,0 +1,110 @@
+.container-driver-details {  
+  background-color: #bebebe;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.information {
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+  padding: 2% 0 2% 0;
+}
+
+.driver-image {
+  width: 45%;
+}
+
+.driver-details {
+  width: 45%;
+  text-align: left;
+}
+
+.driver-image img {
+  max-width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.driver-image p {
+  margin: 10px 0;
+  font-size: 2.625rem;
+  color: #666;
+}
+
+.driver-image p img {
+  margin-left: 10px;
+  vertical-align: middle;
+  height: 2rem;
+  border-color: rgb(82, 82, 83);
+  border-radius: .3125rem;
+  margin-bottom: 5px;
+  
+}
+
+.driver-image h3 {
+  margin: 10px 0;
+  font-size: 2.625rem;
+  letter-spacing: .0125rem;
+  line-height: 1.25;
+  font-weight: 700;
+  color: #333;
+}
+
+.driver-details img {
+  max-width: 30%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.biography {
+  padding-top: 20px;
+  margin: 10px 65px;
+}
+
+.biography h3 {
+  margin-top: 0;
+  font-size: 2rem;
+  letter-spacing: .0125rem;
+  line-height: 1.25;
+  color: #333;
+}
+
+.biography p {
+  font-size: 1.0625rem;
+  margin-top: 1.25rem !important;
+  margin-bottom: 1.25rem !important;
+  color: #666;
+}
+.driver-details img {
+  max-width: 40%;
+  height: auto; 
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.driver-details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px; 
+}
+
+.driver-details th,
+.driver-details td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  letter-spacing: .0125rem;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.driver-details th {
+  background-color: #f0f0f0;
+}
+
+.driver-details td span {
+  font-weight: bold;
+  color: #444;
+}
